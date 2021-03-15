@@ -4,7 +4,9 @@ import random
 from kfold import cross_validation
 
 
-def feature_search(features):
+# TODO: Implement backward search
+
+def forward_search(features):
     # set of features selected
     current_features = set()
 
@@ -34,5 +36,5 @@ def feature_search(features):
 
 
 if __name__ == '__main__':
-    input = [1, 2, 3, 4]
-    feature_search(input)
+    inp = [1, 2, 3, 4]
+    forward_search(inp)
