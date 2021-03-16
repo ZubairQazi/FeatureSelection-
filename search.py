@@ -55,6 +55,8 @@ def backward_elimination(data):
     print('Best Accuracy: ', round(max(accuracies), 3))
     print('Accuracy w/ All Features:', overall_accuracy)
 
+    return accuracies, feature_performances
+
 
 def forward_selection(data):
     # set of features selected
@@ -97,9 +99,10 @@ def forward_selection(data):
     print('Best Accuracy: ', round(max(accuracies), 3))
     print('Accuracy w/ All Features:', best_accuracy)
 
+    return accuracies, feature_performances
 
-if __name__ == '__main__':
 
+def print_menu():
     print('Welcome to Zubair\'s Feature Selection Algorithm')
 
     file_name = input('Enter the input file name: ')
@@ -113,3 +116,7 @@ if __name__ == '__main__':
         backward_elimination(input_data)
     else:
         print('Invalid options inputted!')
+
+
+if __name__ == '__main__':
+    print_menu()
