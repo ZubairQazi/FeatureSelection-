@@ -41,4 +41,5 @@ def cross_validation(complete_data, current_features, feature_to_add):
 
 
 if __name__ == '__main__':
-    cross_validation([], [], 0)
+    result = cross_validation([[1, 1, 2, 3, 4, 5], [2, 1, 2, 3, 4, 5]], [1, 2, 3, 4, 5], 0)
+    print(result)
