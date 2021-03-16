@@ -87,7 +87,7 @@ def forward_selection(data):
                     feature_to_add = j + 1
 
                 # keeps track of accuracies
-                accuracies.add(best_accuracy)
+                accuracies.add(round(best_accuracy, 3))
 
         current_features.add(feature_to_add)
         # keep track of feature sets and corresponding accuracies
@@ -95,8 +95,8 @@ def forward_selection(data):
             feature_performances[round(best_accuracy, 3)] = deepcopy(current_features)
         print('Feature {} added on level {}\n'.format(feature_to_add, i + 1))
 
-    print('Best Features: ', feature_performances[round(max(accuracies), 3)])
-    print('Best Accuracy: ', round(max(accuracies), 3))
+    print('Best Features: ', feature_performances[max(accuracies)])
+    print('Best Accuracy: ', max(accuracies))
     print('Accuracy w/ All Features:', best_accuracy)
 
     return accuracies, feature_performances
@@ -110,12 +110,16 @@ def print_menu():
 
     algorithm = input('Enter the algorithm you wish to run: \n\t 1. Forward Selection \n\t 2. Backward Elimination\n')
 
+    features, accuracies = {}, []
+
     if algorithm == '1':
-        forward_selection(input_data)
+        accuracies, features = forward_selection(input_data)
     elif algorithm == '2':
-        backward_elimination(input_data)
+        accuracies, features = backward_elimination(input_data)
     else:
         print('Invalid options inputted!')
+
+    return features, accuracies
 
 
 if __name__ == '__main__':
