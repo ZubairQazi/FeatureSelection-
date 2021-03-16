@@ -1,4 +1,5 @@
 import pandas as pd
+from copy import deepcopy
 import random
 
 from kfold import cross_validation
@@ -9,6 +10,10 @@ from kfold import cross_validation
 def forward_search(data):
     # set of features selected
     current_features = set()
+
+    # dictionary to track subsets of feature performances
+    feature_performances = {}
+    accuracies = set()
 
     num_cols = data.shape[1]
     # iterate through each level
@@ -30,14 +35,20 @@ def forward_search(data):
                     print('Updated Accuracy:', best_accuracy)
                     feature_to_add = j + 1
 
+                accuracies.add(best_accuracy)
+
         current_features.add(feature_to_add)
+        if round(best_accuracy, 3) not in feature_performances.keys():
+            feature_performances[round(best_accuracy, 3)] = deepcopy(current_features)
         print('Feature {} added on level {}\n'.format(feature_to_add, i + 1))
 
-    print('Best Accuracy:', best_accuracy)
+    print('Best Features: ', feature_performances[round(max(accuracies), 3)])
+    print('Best Accuracy: ', round(max(accuracies), 3))
+    print('Accuracy w/ All Features:', best_accuracy)
 
     return 0
 
 
 if __name__ == '__main__':
-    input_data = pd.read_csv('data/CS170_small_special_testdata__96.txt', delim_whitespace=True, header=None).values
+    input_data = pd.read_csv('data/CS170_small_special_testdata__99.txt', delim_whitespace=True, header=None).values
     forward_search(input_data)

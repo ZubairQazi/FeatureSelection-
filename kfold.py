@@ -25,7 +25,7 @@ def cross_validation(complete_data, current_features, feature_to_add):
             if i != j:
                 # print('Ask if {} is nearest neighbors with {}'.format(i+1, j+1))
                 distance = np.sqrt(sum(pow(objects_to_classify - data[j, 1:], 2)))
-                if distance < nn_distance:
+                if distance <= nn_distance:
                     nn_distance = distance
                     nn_location = j
                     nn_label = data[nn_location, 0]
