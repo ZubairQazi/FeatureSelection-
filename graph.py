@@ -9,10 +9,11 @@ def graph_small():
          '{8, ..., 2}', '{All Features}']
     y = [0.827, 0.94, 0.937, 0.91, 0.877, 0.847, 0.82, 0.797, 0.767, 0.75]
 
-    plt.figure(figsize=(20, 8))
-    plt.bar(x, y)
-    plt.xlabel = 'Current Feature Set'
-    plt.ylabel = 'Accuracy'
+    fig, ax = plt.subplots(figsize=(20, 8))
+    ax.bar(x, y, tick_label=x)
+    ax.set_xlabel('Current Feature Set')
+    ax.set_ylabel('Accuracy')
+    ax.set_title('Feature Selection: Small Dataset')
     plt.savefig('graphs/{}.png'.format(file_name))
 
 
@@ -23,10 +24,11 @@ def graph_large():
          '{14, ..., 12}', '{All Features}']
     y = [0.802, 0.978, 0.95, 0.91, 0, 0, 0, 0.612, 0.574]
 
-    plt.figure(figsize=(20, 8))
-    plt.bar(x, y)
-    plt.xlabel = 'Current Feature Set'
-    plt.ylabel = 'Accuracy'
+    fig, ax = plt.subplots(figsize=(20, 8))
+    ax.bar(x, y, tick_label=x)
+    ax.set_xlabel('Current Feature Set')
+    ax.set_ylabel('Accuracy')
+    ax.set_title('Feature Selection: Large Dataset')
     plt.savefig('graphs/{}.png'.format(file_name))
 
 
@@ -37,10 +39,11 @@ def graph_feature_selection():
     x = [str(val) for val in features.values()]
     y = [float(key) for key in features.keys()]
 
-    plt.figure(figsize=(20, 8))
-    plt.bar(x, y)
-    plt.xlabel = 'Current Feature Set'
-    plt.ylabel = 'Accuracy'
+    fig, ax = plt.subplots(figsize=(20, 8))
+    ax.bar(x, y, tick_label=x)
+    ax.set_xlabel('Current Feature Set')
+    ax.set_ylabel('Accuracy')
+    ax.set_title('Feature Selection')
     plt.savefig('graphs/{}.png'.format(file_name))
 
 
