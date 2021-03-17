@@ -116,6 +116,3 @@ Feature 3 added on level 10
 Best Features:  {8, 5}
 Best Accuracy:  0.94
 Accuracy w/ All Features: 0.75
-
-Process finished with exit code 0
-
