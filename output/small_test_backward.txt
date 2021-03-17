@@ -1,0 +1,119 @@
+Enter a file name to use for the graph image: graph_small_backward
+Welcome to Zubair's Feature Selection Algorithm
+Enter the input file name: data/CS170_SMALLtestdata__70.txt
+Enter the algorithm you wish to run: 
+	 1. Forward Selection 
+	 2. Backward Elimination
+2
+On level 1 of the search tree
+	Considering removing feature 1
+Updated Accuracy: 0.7466666666666667
+	Considering removing feature 2
+	Considering removing feature 3
+Updated Accuracy: 0.7666666666666667
+	Considering removing feature 4
+Updated Accuracy: 0.7733333333333333
+	Considering removing feature 5
+	Considering removing feature 6
+Updated Accuracy: 0.7933333333333333
+	Considering removing feature 7
+	Considering removing feature 8
+	Considering removing feature 9
+	Considering removing feature 10
+Feature 6 removed on level 1
+
+On level 2 of the search tree
+	Considering removing feature 1
+Updated Accuracy: 0.7633333333333333
+	Considering removing feature 2
+Updated Accuracy: 0.7833333333333333
+	Considering removing feature 3
+	Considering removing feature 4
+Updated Accuracy: 0.8066666666666666
+	Considering removing feature 5
+	Considering removing feature 7
+	Considering removing feature 8
+	Considering removing feature 9
+	Considering removing feature 10
+Feature 4 removed on level 2
+
+On level 3 of the search tree
+	Considering removing feature 1
+Updated Accuracy: 0.7833333333333333
+	Considering removing feature 2
+Updated Accuracy: 0.8
+	Considering removing feature 3
+	Considering removing feature 5
+	Considering removing feature 7
+Updated Accuracy: 0.8033333333333333
+	Considering removing feature 8
+	Considering removing feature 9
+	Considering removing feature 10
+Updated Accuracy: 0.8133333333333334
+Feature 10 removed on level 3
+
+On level 4 of the search tree
+	Considering removing feature 1
+Updated Accuracy: 0.84
+	Considering removing feature 2
+	Considering removing feature 3
+	Considering removing feature 5
+	Considering removing feature 7
+	Considering removing feature 8
+	Considering removing feature 9
+Feature 1 removed on level 4
+
+On level 5 of the search tree
+	Considering removing feature 2
+Updated Accuracy: 0.85
+	Considering removing feature 3
+Updated Accuracy: 0.8666666666666667
+	Considering removing feature 5
+	Considering removing feature 7
+	Considering removing feature 8
+	Considering removing feature 9
+Feature 3 removed on level 5
+
+On level 6 of the search tree
+	Considering removing feature 2
+Updated Accuracy: 0.8766666666666667
+	Considering removing feature 5
+	Considering removing feature 7
+	Considering removing feature 8
+	Considering removing feature 9
+Feature 2 removed on level 6
+
+On level 7 of the search tree
+	Considering removing feature 5
+Updated Accuracy: 0.7666666666666667
+	Considering removing feature 7
+Updated Accuracy: 0.89
+	Considering removing feature 8
+	Considering removing feature 9
+Feature 7 removed on level 7
+
+On level 8 of the search tree
+	Considering removing feature 5
+Updated Accuracy: 0.7966666666666666
+	Considering removing feature 8
+Updated Accuracy: 0.8633333333333333
+	Considering removing feature 9
+Updated Accuracy: 0.94
+Feature 9 removed on level 8
+
+On level 9 of the search tree
+	Considering removing feature 5
+Updated Accuracy: 0.7333333333333333
+	Considering removing feature 8
+Updated Accuracy: 0.8266666666666667
+Feature 8 removed on level 9
+
+On level 10 of the search tree
+	Considering removing feature 5
+Updated Accuracy: 0.8466666666666667
+Feature 5 removed on level 10
+
+Best Features:  {8, 5}
+Best Accuracy:  0.94
+Accuracy w/ All Features: 0.7466666666666667
+
