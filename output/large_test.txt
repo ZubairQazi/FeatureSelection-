@@ -1,4 +1,3 @@
-/Users/zubairqazi/miniconda3/envs/data_analytics/bin/python /Users/zubairqazi/Documents/School/CS170/FeatureSelection/search.py
 Welcome to Zubair's Feature Selection Algorithm
 Enter the input file name: data/CS170_largetestdata__32.txt
 Enter the algorithm you wish to run: 
@@ -5719,6 +5718,3 @@ Feature 95 added on level 100
 Best Features:  {20, 14}
 Best Accuracy:  0.978
 Accuracy w/ All Features: 0.574
-
-Process finished with exit code 0
-
