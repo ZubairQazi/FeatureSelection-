@@ -1,4 +1,3 @@
-/Users/zubairqazi/miniconda3/envs/data_analytics/bin/python /Users/zubairqazi/Documents/School/CS170/FeatureSelection/search.py
 Welcome to Zubair's Feature Selection Algorithm
 Enter the input file name: data/CS170_SMALLtestdata__70.txt
 Enter the algorithm you wish to run: 
