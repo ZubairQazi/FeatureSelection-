@@ -1,24 +1,25 @@
 Welcome to Zubair's Feature Selection Algorithm
-Enter the input file name: data/CS170_largetestdata__32.txt
-Enter the algorithm you wish to run: 
+Enter the input file name: Enter the algorithm you wish to run: 
 	 1. Forward Selection 
 	 2. Backward Elimination
-2
 On level 1 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.576
+Updated Accuracy: 0.709
 	Considering removing feature 2
-Updated Accuracy: 0.598
+Updated Accuracy: 0.712
 	Considering removing feature 3
+Updated Accuracy: 0.715
 	Considering removing feature 4
+Updated Accuracy: 0.718
 	Considering removing feature 5
+Updated Accuracy: 0.719
 	Considering removing feature 6
 	Considering removing feature 7
 	Considering removing feature 8
 	Considering removing feature 9
+Updated Accuracy: 0.728
 	Considering removing feature 10
 	Considering removing feature 11
-Updated Accuracy: 0.6
 	Considering removing feature 12
 	Considering removing feature 13
 	Considering removing feature 14
@@ -48,90 +49,23 @@ Updated Accuracy: 0.6
 	Considering removing feature 38
 	Considering removing feature 39
 	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 45
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 48
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 51
-Updated Accuracy: 0.61
-	Considering removing feature 52
-	Considering removing feature 53
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-	Considering removing feature 57
-	Considering removing feature 58
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 62
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 65
-	Considering removing feature 66
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 74
-	Considering removing feature 75
-	Considering removing feature 76
-	Considering removing feature 77
-	Considering removing feature 78
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 81
-	Considering removing feature 82
-	Considering removing feature 83
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 90
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 95
-Updated Accuracy: 0.612
-	Considering removing feature 96
-	Considering removing feature 97
-	Considering removing feature 98
-	Considering removing feature 99
-	Considering removing feature 100
-Feature 95 removed on level 1
+Feature 9 removed on level 1
 
 On level 2 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.602
+Updated Accuracy: 0.737
 	Considering removing feature 2
-Updated Accuracy: 0.606
 	Considering removing feature 3
-Updated Accuracy: 0.608
 	Considering removing feature 4
 	Considering removing feature 5
 	Considering removing feature 6
-Updated Accuracy: 0.612
 	Considering removing feature 7
-Updated Accuracy: 0.622
 	Considering removing feature 8
-	Considering removing feature 9
 	Considering removing feature 10
 	Considering removing feature 11
 	Considering removing feature 12
-Updated Accuracy: 0.626
 	Considering removing feature 13
+Updated Accuracy: 0.738
 	Considering removing feature 14
 	Considering removing feature 15
 	Considering removing feature 16
@@ -154,92 +88,30 @@ Updated Accuracy: 0.626
 	Considering removing feature 33
 	Considering removing feature 34
 	Considering removing feature 35
+Updated Accuracy: 0.739
 	Considering removing feature 36
 	Considering removing feature 37
 	Considering removing feature 38
 	Considering removing feature 39
 	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 45
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 48
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 51
-Updated Accuracy: 0.63
-	Considering removing feature 52
-	Considering removing feature 53
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-	Considering removing feature 57
-	Considering removing feature 58
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 62
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 65
-	Considering removing feature 66
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 74
-	Considering removing feature 75
-	Considering removing feature 76
-	Considering removing feature 77
-	Considering removing feature 78
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 81
-	Considering removing feature 82
-	Considering removing feature 83
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 90
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 96
-	Considering removing feature 97
-	Considering removing feature 98
-	Considering removing feature 99
-	Considering removing feature 100
-Feature 51 removed on level 2
+Feature 35 removed on level 2
 
 On level 3 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.612
+Updated Accuracy: 0.733
 	Considering removing feature 2
-Updated Accuracy: 0.618
 	Considering removing feature 3
-Updated Accuracy: 0.622
+Updated Accuracy: 0.743
 	Considering removing feature 4
 	Considering removing feature 5
 	Considering removing feature 6
-Updated Accuracy: 0.626
 	Considering removing feature 7
 	Considering removing feature 8
-Updated Accuracy: 0.63
-	Considering removing feature 9
 	Considering removing feature 10
 	Considering removing feature 11
 	Considering removing feature 12
 	Considering removing feature 13
+Updated Accuracy: 0.749
 	Considering removing feature 14
 	Considering removing feature 15
 	Considering removing feature 16
@@ -249,7 +121,6 @@ Updated Accuracy: 0.63
 	Considering removing feature 20
 	Considering removing feature 21
 	Considering removing feature 22
-Updated Accuracy: 0.636
 	Considering removing feature 23
 	Considering removing feature 24
 	Considering removing feature 25
@@ -262,99 +133,38 @@ Updated Accuracy: 0.636
 	Considering removing feature 32
 	Considering removing feature 33
 	Considering removing feature 34
-	Considering removing feature 35
 	Considering removing feature 36
 	Considering removing feature 37
 	Considering removing feature 38
 	Considering removing feature 39
 	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 45
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 48
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 53
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-	Considering removing feature 57
-	Considering removing feature 58
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 62
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 65
-	Considering removing feature 66
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 74
-	Considering removing feature 75
-	Considering removing feature 76
-	Considering removing feature 77
-	Considering removing feature 78
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 81
-	Considering removing feature 82
-	Considering removing feature 83
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 90
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 96
-Updated Accuracy: 0.646
-	Considering removing feature 97
-	Considering removing feature 98
-	Considering removing feature 99
-	Considering removing feature 100
-Feature 96 removed on level 3
+Feature 13 removed on level 3
 
 On level 4 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.624
+Updated Accuracy: 0.74
 	Considering removing feature 2
-Updated Accuracy: 0.64
+Updated Accuracy: 0.745
 	Considering removing feature 3
 	Considering removing feature 4
 	Considering removing feature 5
+Updated Accuracy: 0.748
 	Considering removing feature 6
-Updated Accuracy: 0.642
 	Considering removing feature 7
 	Considering removing feature 8
-	Considering removing feature 9
 	Considering removing feature 10
 	Considering removing feature 11
-Updated Accuracy: 0.646
 	Considering removing feature 12
-	Considering removing feature 13
 	Considering removing feature 14
 	Considering removing feature 15
+Updated Accuracy: 0.75
 	Considering removing feature 16
 	Considering removing feature 17
 	Considering removing feature 18
 	Considering removing feature 19
 	Considering removing feature 20
 	Considering removing feature 21
+Updated Accuracy: 0.753
 	Considering removing feature 22
 	Considering removing feature 23
 	Considering removing feature 24
@@ -368,102 +178,42 @@ Updated Accuracy: 0.646
 	Considering removing feature 32
 	Considering removing feature 33
 	Considering removing feature 34
-	Considering removing feature 35
-Updated Accuracy: 0.648
 	Considering removing feature 36
 	Considering removing feature 37
+Updated Accuracy: 0.756
 	Considering removing feature 38
 	Considering removing feature 39
 	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 45
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 48
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 53
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-	Considering removing feature 57
-	Considering removing feature 58
-Updated Accuracy: 0.652
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 62
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 65
-	Considering removing feature 66
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 74
-	Considering removing feature 75
-	Considering removing feature 76
-	Considering removing feature 77
-	Considering removing feature 78
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 81
-	Considering removing feature 82
-	Considering removing feature 83
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 90
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 97
-	Considering removing feature 98
-	Considering removing feature 99
-	Considering removing feature 100
-Feature 58 removed on level 4
+Feature 37 removed on level 4
 
 On level 5 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.624
+Updated Accuracy: 0.734
 	Considering removing feature 2
-Updated Accuracy: 0.63
+Updated Accuracy: 0.749
 	Considering removing feature 3
-Updated Accuracy: 0.648
 	Considering removing feature 4
 	Considering removing feature 5
+Updated Accuracy: 0.75
 	Considering removing feature 6
 	Considering removing feature 7
+Updated Accuracy: 0.754
 	Considering removing feature 8
-	Considering removing feature 9
 	Considering removing feature 10
 	Considering removing feature 11
 	Considering removing feature 12
-	Considering removing feature 13
 	Considering removing feature 14
 	Considering removing feature 15
 	Considering removing feature 16
 	Considering removing feature 17
 	Considering removing feature 18
-Updated Accuracy: 0.65
 	Considering removing feature 19
 	Considering removing feature 20
 	Considering removing feature 21
 	Considering removing feature 22
 	Considering removing feature 23
 	Considering removing feature 24
+Updated Accuracy: 0.756
 	Considering removing feature 25
 	Considering removing feature 26
 	Considering removing feature 27
@@ -474,103 +224,41 @@ Updated Accuracy: 0.65
 	Considering removing feature 32
 	Considering removing feature 33
 	Considering removing feature 34
-	Considering removing feature 35
-Updated Accuracy: 0.658
+Updated Accuracy: 0.758
 	Considering removing feature 36
-	Considering removing feature 37
 	Considering removing feature 38
 	Considering removing feature 39
 	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 45
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 48
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 53
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 62
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 65
-	Considering removing feature 66
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 74
-Updated Accuracy: 0.66
-	Considering removing feature 75
-	Considering removing feature 76
-	Considering removing feature 77
-	Considering removing feature 78
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 81
-	Considering removing feature 82
-	Considering removing feature 83
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 90
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 97
-	Considering removing feature 98
-	Considering removing feature 99
-	Considering removing feature 100
-Feature 74 removed on level 5
+Updated Accuracy: 0.759
+Feature 40 removed on level 5
 
 On level 6 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.644
+Updated Accuracy: 0.741
 	Considering removing feature 2
+Updated Accuracy: 0.754
 	Considering removing feature 3
 	Considering removing feature 4
+Updated Accuracy: 0.758
 	Considering removing feature 5
 	Considering removing feature 6
-Updated Accuracy: 0.646
 	Considering removing feature 7
-Updated Accuracy: 0.648
 	Considering removing feature 8
-Updated Accuracy: 0.652
-	Considering removing feature 9
 	Considering removing feature 10
 	Considering removing feature 11
 	Considering removing feature 12
-	Considering removing feature 13
 	Considering removing feature 14
-Updated Accuracy: 0.654
 	Considering removing feature 15
 	Considering removing feature 16
 	Considering removing feature 17
 	Considering removing feature 18
 	Considering removing feature 19
 	Considering removing feature 20
-Updated Accuracy: 0.658
 	Considering removing feature 21
 	Considering removing feature 22
 	Considering removing feature 23
 	Considering removing feature 24
+Updated Accuracy: 0.763
 	Considering removing feature 25
 	Considering removing feature 26
 	Considering removing feature 27
@@ -581,97 +269,37 @@ Updated Accuracy: 0.658
 	Considering removing feature 32
 	Considering removing feature 33
 	Considering removing feature 34
-	Considering removing feature 35
-Updated Accuracy: 0.666
+Updated Accuracy: 0.767
 	Considering removing feature 36
-	Considering removing feature 37
 	Considering removing feature 38
 	Considering removing feature 39
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 45
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 48
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 53
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 62
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 65
-	Considering removing feature 66
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 75
-	Considering removing feature 76
-	Considering removing feature 77
-	Considering removing feature 78
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 81
-	Considering removing feature 82
-	Considering removing feature 83
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 90
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 97
-	Considering removing feature 98
-	Considering removing feature 99
-	Considering removing feature 100
-Feature 35 removed on level 6
+Feature 34 removed on level 6
 
 On level 7 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.648
+Updated Accuracy: 0.752
 	Considering removing feature 2
 	Considering removing feature 3
+Updated Accuracy: 0.762
 	Considering removing feature 4
-Updated Accuracy: 0.65
+Updated Accuracy: 0.763
 	Considering removing feature 5
 	Considering removing feature 6
-Updated Accuracy: 0.656
 	Considering removing feature 7
 	Considering removing feature 8
-	Considering removing feature 9
 	Considering removing feature 10
 	Considering removing feature 11
 	Considering removing feature 12
-	Considering removing feature 13
 	Considering removing feature 14
 	Considering removing feature 15
 	Considering removing feature 16
 	Considering removing feature 17
-Updated Accuracy: 0.68
 	Considering removing feature 18
 	Considering removing feature 19
 	Considering removing feature 20
 	Considering removing feature 21
 	Considering removing feature 22
+Updated Accuracy: 0.765
 	Considering removing feature 23
 	Considering removing feature 24
 	Considering removing feature 25
@@ -683,94 +311,33 @@ Updated Accuracy: 0.68
 	Considering removing feature 31
 	Considering removing feature 32
 	Considering removing feature 33
-	Considering removing feature 34
 	Considering removing feature 36
-	Considering removing feature 37
 	Considering removing feature 38
 	Considering removing feature 39
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 45
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 48
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 53
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 62
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 65
-	Considering removing feature 66
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 75
-	Considering removing feature 76
-	Considering removing feature 77
-	Considering removing feature 78
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 81
-	Considering removing feature 82
-	Considering removing feature 83
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 90
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 97
-	Considering removing feature 98
-	Considering removing feature 99
-	Considering removing feature 100
-Feature 17 removed on level 7
+Feature 22 removed on level 7
 
 On level 8 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.658
+Updated Accuracy: 0.759
 	Considering removing feature 2
 	Considering removing feature 3
-Updated Accuracy: 0.662
 	Considering removing feature 4
 	Considering removing feature 5
 	Considering removing feature 6
 	Considering removing feature 7
 	Considering removing feature 8
-	Considering removing feature 9
 	Considering removing feature 10
 	Considering removing feature 11
+Updated Accuracy: 0.768
 	Considering removing feature 12
-	Considering removing feature 13
 	Considering removing feature 14
 	Considering removing feature 15
 	Considering removing feature 16
+	Considering removing feature 17
 	Considering removing feature 18
 	Considering removing feature 19
 	Considering removing feature 20
-Updated Accuracy: 0.666
 	Considering removing feature 21
-	Considering removing feature 22
 	Considering removing feature 23
 	Considering removing feature 24
 	Considering removing feature 25
@@ -782,95 +349,35 @@ Updated Accuracy: 0.666
 	Considering removing feature 31
 	Considering removing feature 32
 	Considering removing feature 33
-	Considering removing feature 34
+Updated Accuracy: 0.77
 	Considering removing feature 36
-	Considering removing feature 37
 	Considering removing feature 38
 	Considering removing feature 39
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 45
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 48
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 53
-Updated Accuracy: 0.676
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 62
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 65
-	Considering removing feature 66
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 75
-	Considering removing feature 76
-	Considering removing feature 77
-	Considering removing feature 78
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 81
-	Considering removing feature 82
-	Considering removing feature 83
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 90
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 97
-	Considering removing feature 98
-	Considering removing feature 99
-	Considering removing feature 100
-Feature 53 removed on level 8
+Feature 33 removed on level 8
 
 On level 9 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.662
+Updated Accuracy: 0.761
 	Considering removing feature 2
 	Considering removing feature 3
-Updated Accuracy: 0.666
+Updated Accuracy: 0.769
 	Considering removing feature 4
 	Considering removing feature 5
 	Considering removing feature 6
-Updated Accuracy: 0.674
 	Considering removing feature 7
 	Considering removing feature 8
-	Considering removing feature 9
 	Considering removing feature 10
 	Considering removing feature 11
 	Considering removing feature 12
-	Considering removing feature 13
 	Considering removing feature 14
 	Considering removing feature 15
+Updated Accuracy: 0.784
 	Considering removing feature 16
+	Considering removing feature 17
 	Considering removing feature 18
 	Considering removing feature 19
 	Considering removing feature 20
 	Considering removing feature 21
-	Considering removing feature 22
 	Considering removing feature 23
 	Considering removing feature 24
 	Considering removing feature 25
@@ -881,94 +388,34 @@ Updated Accuracy: 0.674
 	Considering removing feature 30
 	Considering removing feature 31
 	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
 	Considering removing feature 36
-	Considering removing feature 37
 	Considering removing feature 38
 	Considering removing feature 39
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 45
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 48
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 62
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 65
-Updated Accuracy: 0.676
-	Considering removing feature 66
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 75
-	Considering removing feature 76
-	Considering removing feature 77
-	Considering removing feature 78
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 81
-	Considering removing feature 82
-	Considering removing feature 83
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 90
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 97
-	Considering removing feature 98
-	Considering removing feature 99
-	Considering removing feature 100
-Feature 65 removed on level 9
+Feature 15 removed on level 9
 
 On level 10 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.67
+Updated Accuracy: 0.762
 	Considering removing feature 2
+Updated Accuracy: 0.773
 	Considering removing feature 3
-Updated Accuracy: 0.672
+Updated Accuracy: 0.777
 	Considering removing feature 4
+Updated Accuracy: 0.781
 	Considering removing feature 5
 	Considering removing feature 6
 	Considering removing feature 7
 	Considering removing feature 8
-	Considering removing feature 9
 	Considering removing feature 10
 	Considering removing feature 11
 	Considering removing feature 12
-	Considering removing feature 13
 	Considering removing feature 14
-	Considering removing feature 15
 	Considering removing feature 16
+	Considering removing feature 17
 	Considering removing feature 18
 	Considering removing feature 19
 	Considering removing feature 20
 	Considering removing feature 21
-	Considering removing feature 22
 	Considering removing feature 23
 	Considering removing feature 24
 	Considering removing feature 25
@@ -979,93 +426,33 @@ Updated Accuracy: 0.672
 	Considering removing feature 30
 	Considering removing feature 31
 	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
 	Considering removing feature 36
-	Considering removing feature 37
 	Considering removing feature 38
 	Considering removing feature 39
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 45
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 48
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 62
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 66
-Updated Accuracy: 0.684
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 75
-	Considering removing feature 76
-	Considering removing feature 77
-	Considering removing feature 78
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 81
-	Considering removing feature 82
-	Considering removing feature 83
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 90
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 97
-	Considering removing feature 98
-	Considering removing feature 99
-	Considering removing feature 100
-Feature 66 removed on level 10
+Feature 4 removed on level 10
 
 On level 11 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.666
+Updated Accuracy: 0.764
 	Considering removing feature 2
+Updated Accuracy: 0.778
 	Considering removing feature 3
-	Considering removing feature 4
+Updated Accuracy: 0.781
 	Considering removing feature 5
 	Considering removing feature 6
-Updated Accuracy: 0.676
 	Considering removing feature 7
 	Considering removing feature 8
-	Considering removing feature 9
 	Considering removing feature 10
 	Considering removing feature 11
 	Considering removing feature 12
-	Considering removing feature 13
 	Considering removing feature 14
-	Considering removing feature 15
 	Considering removing feature 16
+	Considering removing feature 17
 	Considering removing feature 18
+Updated Accuracy: 0.783
 	Considering removing feature 19
 	Considering removing feature 20
 	Considering removing feature 21
-	Considering removing feature 22
 	Considering removing feature 23
 	Considering removing feature 24
 	Considering removing feature 25
@@ -1074,101 +461,36 @@ Updated Accuracy: 0.676
 	Considering removing feature 28
 	Considering removing feature 29
 	Considering removing feature 30
-Updated Accuracy: 0.678
 	Considering removing feature 31
 	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
 	Considering removing feature 36
-	Considering removing feature 37
 	Considering removing feature 38
 	Considering removing feature 39
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 45
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 48
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 62
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 75
-	Considering removing feature 76
-	Considering removing feature 77
-	Considering removing feature 78
-Updated Accuracy: 0.68
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 81
-	Considering removing feature 82
-	Considering removing feature 83
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 90
-Updated Accuracy: 0.682
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 97
-	Considering removing feature 98
-	Considering removing feature 99
-	Considering removing feature 100
-Feature 90 removed on level 11
+Feature 18 removed on level 11
 
 On level 12 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.664
+Updated Accuracy: 0.763
 	Considering removing feature 2
+Updated Accuracy: 0.772
 	Considering removing feature 3
-Updated Accuracy: 0.67
-	Considering removing feature 4
 	Considering removing feature 5
-Updated Accuracy: 0.674
 	Considering removing feature 6
 	Considering removing feature 7
 	Considering removing feature 8
-Updated Accuracy: 0.676
-	Considering removing feature 9
+Updated Accuracy: 0.773
 	Considering removing feature 10
 	Considering removing feature 11
-Updated Accuracy: 0.682
 	Considering removing feature 12
-	Considering removing feature 13
 	Considering removing feature 14
-	Considering removing feature 15
 	Considering removing feature 16
-	Considering removing feature 18
+	Considering removing feature 17
 	Considering removing feature 19
 	Considering removing feature 20
 	Considering removing feature 21
-	Considering removing feature 22
 	Considering removing feature 23
 	Considering removing feature 24
+Updated Accuracy: 0.786
 	Considering removing feature 25
 	Considering removing feature 26
 	Considering removing feature 27
@@ -1177,92 +499,35 @@ Updated Accuracy: 0.682
 	Considering removing feature 30
 	Considering removing feature 31
 	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
 	Considering removing feature 36
-	Considering removing feature 37
 	Considering removing feature 38
 	Considering removing feature 39
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 45
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 48
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 62
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 75
-	Considering removing feature 76
-	Considering removing feature 77
-	Considering removing feature 78
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 81
-	Considering removing feature 82
-	Considering removing feature 83
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 97
-	Considering removing feature 98
-	Considering removing feature 99
-	Considering removing feature 100
-Feature 11 removed on level 12
+Feature 24 removed on level 12
 
 On level 13 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.668
+Updated Accuracy: 0.776
 	Considering removing feature 2
+Updated Accuracy: 0.777
 	Considering removing feature 3
-	Considering removing feature 4
 	Considering removing feature 5
-Updated Accuracy: 0.678
 	Considering removing feature 6
+Updated Accuracy: 0.781
 	Considering removing feature 7
 	Considering removing feature 8
-	Considering removing feature 9
 	Considering removing feature 10
+	Considering removing feature 11
 	Considering removing feature 12
-	Considering removing feature 13
 	Considering removing feature 14
-	Considering removing feature 15
 	Considering removing feature 16
-	Considering removing feature 18
+	Considering removing feature 17
 	Considering removing feature 19
+Updated Accuracy: 0.782
 	Considering removing feature 20
 	Considering removing feature 21
-	Considering removing feature 22
 	Considering removing feature 23
-	Considering removing feature 24
 	Considering removing feature 25
+Updated Accuracy: 0.786
 	Considering removing feature 26
 	Considering removing feature 27
 	Considering removing feature 28
@@ -1270,96 +535,32 @@ Updated Accuracy: 0.678
 	Considering removing feature 30
 	Considering removing feature 31
 	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
 	Considering removing feature 36
-	Considering removing feature 37
 	Considering removing feature 38
 	Considering removing feature 39
-Updated Accuracy: 0.68
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 45
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 48
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 62
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 75
-	Considering removing feature 76
-	Considering removing feature 77
-	Considering removing feature 78
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 81
-	Considering removing feature 82
-	Considering removing feature 83
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 97
-	Considering removing feature 98
-	Considering removing feature 99
-	Considering removing feature 100
-Feature 39 removed on level 13
+Feature 25 removed on level 13
 
 On level 14 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.664
+Updated Accuracy: 0.769
 	Considering removing feature 2
+Updated Accuracy: 0.779
 	Considering removing feature 3
-Updated Accuracy: 0.672
-	Considering removing feature 4
-Updated Accuracy: 0.674
 	Considering removing feature 5
 	Considering removing feature 6
+Updated Accuracy: 0.784
 	Considering removing feature 7
 	Considering removing feature 8
-Updated Accuracy: 0.678
-	Considering removing feature 9
 	Considering removing feature 10
+	Considering removing feature 11
 	Considering removing feature 12
-Updated Accuracy: 0.706
-	Considering removing feature 13
 	Considering removing feature 14
-	Considering removing feature 15
 	Considering removing feature 16
-	Considering removing feature 18
+	Considering removing feature 17
 	Considering removing feature 19
 	Considering removing feature 20
 	Considering removing feature 21
-	Considering removing feature 22
 	Considering removing feature 23
-	Considering removing feature 24
-	Considering removing feature 25
 	Considering removing feature 26
 	Considering removing feature 27
 	Considering removing feature 28
@@ -1367,93 +568,33 @@ Updated Accuracy: 0.706
 	Considering removing feature 30
 	Considering removing feature 31
 	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
 	Considering removing feature 36
-	Considering removing feature 37
 	Considering removing feature 38
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 45
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 48
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 62
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 75
-	Considering removing feature 76
-	Considering removing feature 77
-	Considering removing feature 78
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 81
-	Considering removing feature 82
-	Considering removing feature 83
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 97
-	Considering removing feature 98
-	Considering removing feature 99
-	Considering removing feature 100
-Feature 12 removed on level 14
+	Considering removing feature 39
+Feature 6 removed on level 14
 
 On level 15 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.682
+Updated Accuracy: 0.765
 	Considering removing feature 2
+Updated Accuracy: 0.768
 	Considering removing feature 3
-Updated Accuracy: 0.684
-	Considering removing feature 4
 	Considering removing feature 5
-Updated Accuracy: 0.686
-	Considering removing feature 6
+Updated Accuracy: 0.774
 	Considering removing feature 7
 	Considering removing feature 8
-	Considering removing feature 9
 	Considering removing feature 10
-	Considering removing feature 13
+	Considering removing feature 11
+	Considering removing feature 12
 	Considering removing feature 14
-	Considering removing feature 15
 	Considering removing feature 16
-	Considering removing feature 18
+Updated Accuracy: 0.78
+	Considering removing feature 17
 	Considering removing feature 19
-Updated Accuracy: 0.696
 	Considering removing feature 20
+Updated Accuracy: 0.786
 	Considering removing feature 21
-	Considering removing feature 22
 	Considering removing feature 23
-	Considering removing feature 24
-	Considering removing feature 25
-Updated Accuracy: 0.7
 	Considering removing feature 26
 	Considering removing feature 27
 	Considering removing feature 28
@@ -1461,94 +602,31 @@ Updated Accuracy: 0.7
 	Considering removing feature 30
 	Considering removing feature 31
 	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
 	Considering removing feature 36
-	Considering removing feature 37
 	Considering removing feature 38
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 45
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 48
-Updated Accuracy: 0.708
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 62
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 75
-	Considering removing feature 76
-	Considering removing feature 77
-	Considering removing feature 78
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 81
-	Considering removing feature 82
-	Considering removing feature 83
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 97
-	Considering removing feature 98
-	Considering removing feature 99
-	Considering removing feature 100
-Feature 48 removed on level 15
+	Considering removing feature 39
+Feature 20 removed on level 15
 
 On level 16 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.69
+Updated Accuracy: 0.764
 	Considering removing feature 2
+Updated Accuracy: 0.769
 	Considering removing feature 3
-Updated Accuracy: 0.692
-	Considering removing feature 4
+Updated Accuracy: 0.778
 	Considering removing feature 5
-	Considering removing feature 6
 	Considering removing feature 7
 	Considering removing feature 8
-Updated Accuracy: 0.694
-	Considering removing feature 9
 	Considering removing feature 10
-Updated Accuracy: 0.696
-	Considering removing feature 13
+	Considering removing feature 11
+	Considering removing feature 12
 	Considering removing feature 14
-	Considering removing feature 15
 	Considering removing feature 16
-	Considering removing feature 18
+	Considering removing feature 17
 	Considering removing feature 19
-Updated Accuracy: 0.706
-	Considering removing feature 20
 	Considering removing feature 21
-	Considering removing feature 22
+Updated Accuracy: 0.784
 	Considering removing feature 23
-	Considering removing feature 24
-	Considering removing feature 25
 	Considering removing feature 26
 	Considering removing feature 27
 	Considering removing feature 28
@@ -1556,91 +634,28 @@ Updated Accuracy: 0.706
 	Considering removing feature 30
 	Considering removing feature 31
 	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
 	Considering removing feature 36
-	Considering removing feature 37
 	Considering removing feature 38
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 45
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 62
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 75
-	Considering removing feature 76
-Updated Accuracy: 0.714
-	Considering removing feature 77
-	Considering removing feature 78
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 81
-	Considering removing feature 82
-	Considering removing feature 83
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 97
-	Considering removing feature 98
-	Considering removing feature 99
-	Considering removing feature 100
-Feature 76 removed on level 16
+	Considering removing feature 39
+Feature 21 removed on level 16
 
 On level 17 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.702
+Updated Accuracy: 0.77
 	Considering removing feature 2
 	Considering removing feature 3
-	Considering removing feature 4
-Updated Accuracy: 0.708
+Updated Accuracy: 0.775
 	Considering removing feature 5
-	Considering removing feature 6
 	Considering removing feature 7
 	Considering removing feature 8
-	Considering removing feature 9
 	Considering removing feature 10
-	Considering removing feature 13
+	Considering removing feature 11
+	Considering removing feature 12
 	Considering removing feature 14
-	Considering removing feature 15
 	Considering removing feature 16
-	Considering removing feature 18
+	Considering removing feature 17
 	Considering removing feature 19
-	Considering removing feature 20
-	Considering removing feature 21
-	Considering removing feature 22
 	Considering removing feature 23
-	Considering removing feature 24
-	Considering removing feature 25
-Updated Accuracy: 0.712
 	Considering removing feature 26
 	Considering removing feature 27
 	Considering removing feature 28
@@ -1648,90 +663,30 @@ Updated Accuracy: 0.712
 	Considering removing feature 30
 	Considering removing feature 31
 	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
 	Considering removing feature 36
-	Considering removing feature 37
 	Considering removing feature 38
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 45
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 62
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 75
-	Considering removing feature 77
-Updated Accuracy: 0.718
-	Considering removing feature 78
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 81
-	Considering removing feature 82
-	Considering removing feature 83
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 97
-	Considering removing feature 98
-	Considering removing feature 99
-	Considering removing feature 100
-Feature 77 removed on level 17
+	Considering removing feature 39
+Feature 3 removed on level 17
 
 On level 18 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.698
+Updated Accuracy: 0.754
 	Considering removing feature 2
-	Considering removing feature 3
-	Considering removing feature 4
-Updated Accuracy: 0.714
+Updated Accuracy: 0.755
 	Considering removing feature 5
-	Considering removing feature 6
+Updated Accuracy: 0.763
 	Considering removing feature 7
+Updated Accuracy: 0.767
 	Considering removing feature 8
-	Considering removing feature 9
 	Considering removing feature 10
-	Considering removing feature 13
+	Considering removing feature 11
+	Considering removing feature 12
 	Considering removing feature 14
-	Considering removing feature 15
 	Considering removing feature 16
-	Considering removing feature 18
+Updated Accuracy: 0.781
+	Considering removing feature 17
 	Considering removing feature 19
-	Considering removing feature 20
-	Considering removing feature 21
-	Considering removing feature 22
 	Considering removing feature 23
-	Considering removing feature 24
-	Considering removing feature 25
-Updated Accuracy: 0.716
 	Considering removing feature 26
 	Considering removing feature 27
 	Considering removing feature 28
@@ -1739,90 +694,26 @@ Updated Accuracy: 0.716
 	Considering removing feature 30
 	Considering removing feature 31
 	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
 	Considering removing feature 36
-	Considering removing feature 37
 	Considering removing feature 38
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 45
-Updated Accuracy: 0.718
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 62
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 75
-	Considering removing feature 78
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 81
-	Considering removing feature 82
-	Considering removing feature 83
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 97
-	Considering removing feature 98
-	Considering removing feature 99
-Updated Accuracy: 0.722
-	Considering removing feature 100
-Feature 99 removed on level 18
+	Considering removing feature 39
+Feature 16 removed on level 18
 
 On level 19 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.69
+Updated Accuracy: 0.77
 	Considering removing feature 2
-Updated Accuracy: 0.708
-	Considering removing feature 3
-	Considering removing feature 4
-Updated Accuracy: 0.714
 	Considering removing feature 5
-	Considering removing feature 6
 	Considering removing feature 7
 	Considering removing feature 8
-	Considering removing feature 9
 	Considering removing feature 10
-	Considering removing feature 13
+	Considering removing feature 11
+	Considering removing feature 12
 	Considering removing feature 14
-	Considering removing feature 15
-	Considering removing feature 16
-	Considering removing feature 18
+	Considering removing feature 17
 	Considering removing feature 19
-	Considering removing feature 20
-	Considering removing feature 21
-	Considering removing feature 22
 	Considering removing feature 23
-	Considering removing feature 24
-	Considering removing feature 25
+Updated Accuracy: 0.772
 	Considering removing feature 26
 	Considering removing feature 27
 	Considering removing feature 28
@@ -1830,89 +721,26 @@ Updated Accuracy: 0.714
 	Considering removing feature 30
 	Considering removing feature 31
 	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
 	Considering removing feature 36
-	Considering removing feature 37
 	Considering removing feature 38
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 45
-Updated Accuracy: 0.718
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 62
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 75
-	Considering removing feature 78
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 81
-	Considering removing feature 82
-	Considering removing feature 83
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 97
-Updated Accuracy: 0.72
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 97 removed on level 19
+	Considering removing feature 39
+Feature 23 removed on level 19
 
 On level 20 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.7
+Updated Accuracy: 0.759
 	Considering removing feature 2
-Updated Accuracy: 0.71
-	Considering removing feature 3
-Updated Accuracy: 0.72
-	Considering removing feature 4
 	Considering removing feature 5
-	Considering removing feature 6
+Updated Accuracy: 0.771
 	Considering removing feature 7
+Updated Accuracy: 0.776
 	Considering removing feature 8
-	Considering removing feature 9
 	Considering removing feature 10
-	Considering removing feature 13
+	Considering removing feature 11
+	Considering removing feature 12
 	Considering removing feature 14
-	Considering removing feature 15
-	Considering removing feature 16
-	Considering removing feature 18
+	Considering removing feature 17
 	Considering removing feature 19
-	Considering removing feature 20
-	Considering removing feature 21
-	Considering removing feature 22
-	Considering removing feature 23
-	Considering removing feature 24
-	Considering removing feature 25
 	Considering removing feature 26
 	Considering removing feature 27
 	Considering removing feature 28
@@ -1920,3848 +748,357 @@ Updated Accuracy: 0.72
 	Considering removing feature 30
 	Considering removing feature 31
 	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
+Updated Accuracy: 0.779
 	Considering removing feature 36
-	Considering removing feature 37
 	Considering removing feature 38
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 45
-Updated Accuracy: 0.726
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 62
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 75
-	Considering removing feature 78
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 81
-	Considering removing feature 82
-	Considering removing feature 83
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 45 removed on level 20
+	Considering removing feature 39
+Feature 32 removed on level 20
 
 On level 21 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.71
+Updated Accuracy: 0.746
 	Considering removing feature 2
-	Considering removing feature 3
-	Considering removing feature 4
-Updated Accuracy: 0.722
 	Considering removing feature 5
-	Considering removing feature 6
+Updated Accuracy: 0.758
 	Considering removing feature 7
+Updated Accuracy: 0.766
 	Considering removing feature 8
-	Considering removing feature 9
+Updated Accuracy: 0.767
 	Considering removing feature 10
-	Considering removing feature 13
+	Considering removing feature 11
+	Considering removing feature 12
+Updated Accuracy: 0.77
 	Considering removing feature 14
-	Considering removing feature 15
-	Considering removing feature 16
-	Considering removing feature 18
+	Considering removing feature 17
 	Considering removing feature 19
-	Considering removing feature 20
-	Considering removing feature 21
-	Considering removing feature 22
-	Considering removing feature 23
-	Considering removing feature 24
-	Considering removing feature 25
 	Considering removing feature 26
 	Considering removing feature 27
+Updated Accuracy: 0.776
 	Considering removing feature 28
+Updated Accuracy: 0.779
 	Considering removing feature 29
 	Considering removing feature 30
 	Considering removing feature 31
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
 	Considering removing feature 36
-	Considering removing feature 37
 	Considering removing feature 38
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 62
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 75
-Updated Accuracy: 0.724
-	Considering removing feature 78
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 81
-	Considering removing feature 82
-	Considering removing feature 83
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 75 removed on level 21
+	Considering removing feature 39
+Feature 28 removed on level 21
 
 On level 22 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.692
+Updated Accuracy: 0.76
 	Considering removing feature 2
-Updated Accuracy: 0.704
-	Considering removing feature 3
-Updated Accuracy: 0.706
-	Considering removing feature 4
-Updated Accuracy: 0.712
+Updated Accuracy: 0.762
 	Considering removing feature 5
-Updated Accuracy: 0.714
-	Considering removing feature 6
+Updated Accuracy: 0.763
 	Considering removing feature 7
+Updated Accuracy: 0.788
 	Considering removing feature 8
-	Considering removing feature 9
 	Considering removing feature 10
-	Considering removing feature 13
+	Considering removing feature 11
+	Considering removing feature 12
 	Considering removing feature 14
-	Considering removing feature 15
-	Considering removing feature 16
-	Considering removing feature 18
+	Considering removing feature 17
 	Considering removing feature 19
-	Considering removing feature 20
-	Considering removing feature 21
-	Considering removing feature 22
-	Considering removing feature 23
-Updated Accuracy: 0.716
-	Considering removing feature 24
-	Considering removing feature 25
 	Considering removing feature 26
 	Considering removing feature 27
-	Considering removing feature 28
 	Considering removing feature 29
 	Considering removing feature 30
 	Considering removing feature 31
-	Considering removing feature 32
-Updated Accuracy: 0.718
-	Considering removing feature 33
-	Considering removing feature 34
 	Considering removing feature 36
-	Considering removing feature 37
 	Considering removing feature 38
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 62
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 78
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 81
-Updated Accuracy: 0.72
-	Considering removing feature 82
-	Considering removing feature 83
-Updated Accuracy: 0.724
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 83 removed on level 22
+	Considering removing feature 39
+Feature 7 removed on level 22
 
 On level 23 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.702
+Updated Accuracy: 0.758
 	Considering removing feature 2
-Updated Accuracy: 0.714
-	Considering removing feature 3
-	Considering removing feature 4
+Updated Accuracy: 0.767
 	Considering removing feature 5
-Updated Accuracy: 0.72
-	Considering removing feature 6
-	Considering removing feature 7
+Updated Accuracy: 0.775
 	Considering removing feature 8
-	Considering removing feature 9
+Updated Accuracy: 0.776
 	Considering removing feature 10
-	Considering removing feature 13
-Updated Accuracy: 0.726
+	Considering removing feature 11
+	Considering removing feature 12
 	Considering removing feature 14
-	Considering removing feature 15
-	Considering removing feature 16
-	Considering removing feature 18
+Updated Accuracy: 0.784
+	Considering removing feature 17
 	Considering removing feature 19
-	Considering removing feature 20
-	Considering removing feature 21
-	Considering removing feature 22
-	Considering removing feature 23
-	Considering removing feature 24
-	Considering removing feature 25
 	Considering removing feature 26
 	Considering removing feature 27
-	Considering removing feature 28
 	Considering removing feature 29
 	Considering removing feature 30
 	Considering removing feature 31
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
 	Considering removing feature 36
-	Considering removing feature 37
 	Considering removing feature 38
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 62
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 78
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 81
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 13 removed on level 23
+	Considering removing feature 39
+Feature 14 removed on level 23
 
 On level 24 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.704
+Updated Accuracy: 0.76
 	Considering removing feature 2
-Updated Accuracy: 0.718
-	Considering removing feature 3
-	Considering removing feature 4
-Updated Accuracy: 0.728
+Updated Accuracy: 0.77
 	Considering removing feature 5
-	Considering removing feature 6
-	Considering removing feature 7
+Updated Accuracy: 0.783
 	Considering removing feature 8
-	Considering removing feature 9
 	Considering removing feature 10
-	Considering removing feature 14
-	Considering removing feature 15
-	Considering removing feature 16
-	Considering removing feature 18
+	Considering removing feature 11
+	Considering removing feature 12
+	Considering removing feature 17
 	Considering removing feature 19
-	Considering removing feature 20
-	Considering removing feature 21
-	Considering removing feature 22
-	Considering removing feature 23
-	Considering removing feature 24
-	Considering removing feature 25
-Updated Accuracy: 0.73
 	Considering removing feature 26
 	Considering removing feature 27
-	Considering removing feature 28
 	Considering removing feature 29
 	Considering removing feature 30
 	Considering removing feature 31
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
+Updated Accuracy: 0.79
 	Considering removing feature 36
-	Considering removing feature 37
 	Considering removing feature 38
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 62
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 78
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 81
-Updated Accuracy: 0.736
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 81 removed on level 24
+	Considering removing feature 39
+Feature 31 removed on level 24
 
 On level 25 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.716
+Updated Accuracy: 0.76
 	Considering removing feature 2
-	Considering removing feature 3
-	Considering removing feature 4
-Updated Accuracy: 0.724
+Updated Accuracy: 0.766
 	Considering removing feature 5
-	Considering removing feature 6
-	Considering removing feature 7
 	Considering removing feature 8
-Updated Accuracy: 0.732
-	Considering removing feature 9
+Updated Accuracy: 0.768
 	Considering removing feature 10
-	Considering removing feature 14
-	Considering removing feature 15
-	Considering removing feature 16
-	Considering removing feature 18
+Updated Accuracy: 0.775
+	Considering removing feature 11
+	Considering removing feature 12
+	Considering removing feature 17
+Updated Accuracy: 0.776
 	Considering removing feature 19
-	Considering removing feature 20
-	Considering removing feature 21
-	Considering removing feature 22
-	Considering removing feature 23
-	Considering removing feature 24
-	Considering removing feature 25
 	Considering removing feature 26
 	Considering removing feature 27
-	Considering removing feature 28
+Updated Accuracy: 0.778
 	Considering removing feature 29
 	Considering removing feature 30
-	Considering removing feature 31
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
 	Considering removing feature 36
-	Considering removing feature 37
 	Considering removing feature 38
-Updated Accuracy: 0.742
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 62
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 78
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 38 removed on level 25
+	Considering removing feature 39
+Feature 27 removed on level 25
 
 On level 26 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.74
+Updated Accuracy: 0.756
 	Considering removing feature 2
-	Considering removing feature 3
-	Considering removing feature 4
 	Considering removing feature 5
-	Considering removing feature 6
-	Considering removing feature 7
+Updated Accuracy: 0.758
 	Considering removing feature 8
-Updated Accuracy: 0.744
-	Considering removing feature 9
+Updated Accuracy: 0.773
 	Considering removing feature 10
-	Considering removing feature 14
-	Considering removing feature 15
-	Considering removing feature 16
-	Considering removing feature 18
+Updated Accuracy: 0.778
+	Considering removing feature 11
+	Considering removing feature 12
+Updated Accuracy: 0.78
+	Considering removing feature 17
 	Considering removing feature 19
-	Considering removing feature 20
-	Considering removing feature 21
-	Considering removing feature 22
-	Considering removing feature 23
-	Considering removing feature 24
-	Considering removing feature 25
 	Considering removing feature 26
-	Considering removing feature 27
-	Considering removing feature 28
 	Considering removing feature 29
 	Considering removing feature 30
-	Considering removing feature 31
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
 	Considering removing feature 36
-	Considering removing feature 37
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 62
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 78
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 8 removed on level 26
+	Considering removing feature 38
+	Considering removing feature 39
+Updated Accuracy: 0.784
+Feature 39 removed on level 26
 
 On level 27 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.736
+Updated Accuracy: 0.762
 	Considering removing feature 2
-	Considering removing feature 3
-	Considering removing feature 4
 	Considering removing feature 5
-	Considering removing feature 6
-	Considering removing feature 7
-	Considering removing feature 9
-Updated Accuracy: 0.738
+Updated Accuracy: 0.765
+	Considering removing feature 8
+Updated Accuracy: 0.772
 	Considering removing feature 10
-Updated Accuracy: 0.75
-	Considering removing feature 14
-	Considering removing feature 15
-	Considering removing feature 16
-	Considering removing feature 18
+	Considering removing feature 11
+	Considering removing feature 12
+	Considering removing feature 17
+Updated Accuracy: 0.776
 	Considering removing feature 19
-	Considering removing feature 20
-	Considering removing feature 21
-	Considering removing feature 22
-	Considering removing feature 23
-	Considering removing feature 24
-	Considering removing feature 25
 	Considering removing feature 26
-	Considering removing feature 27
-	Considering removing feature 28
 	Considering removing feature 29
 	Considering removing feature 30
-	Considering removing feature 31
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
 	Considering removing feature 36
-	Considering removing feature 37
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 62
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 78
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 10 removed on level 27
+	Considering removing feature 38
+Updated Accuracy: 0.792
+Feature 38 removed on level 27
 
 On level 28 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.728
+Updated Accuracy: 0.762
 	Considering removing feature 2
-Updated Accuracy: 0.736
-	Considering removing feature 3
-	Considering removing feature 4
+Updated Accuracy: 0.772
 	Considering removing feature 5
-	Considering removing feature 6
-Updated Accuracy: 0.738
-	Considering removing feature 7
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 15
-	Considering removing feature 16
-Updated Accuracy: 0.748
-	Considering removing feature 18
+Updated Accuracy: 0.782
+	Considering removing feature 8
+Updated Accuracy: 0.786
+	Considering removing feature 10
+	Considering removing feature 11
+	Considering removing feature 12
+	Considering removing feature 17
 	Considering removing feature 19
-	Considering removing feature 20
-Updated Accuracy: 0.75
-	Considering removing feature 21
-	Considering removing feature 22
-	Considering removing feature 23
-	Considering removing feature 24
-	Considering removing feature 25
 	Considering removing feature 26
-	Considering removing feature 27
-	Considering removing feature 28
 	Considering removing feature 29
 	Considering removing feature 30
-	Considering removing feature 31
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
 	Considering removing feature 36
-	Considering removing feature 37
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 62
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 78
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 20 removed on level 28
+Feature 8 removed on level 28
 
 On level 29 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.734
+Updated Accuracy: 0.777
 	Considering removing feature 2
-	Considering removing feature 3
-	Considering removing feature 4
 	Considering removing feature 5
-	Considering removing feature 6
-Updated Accuracy: 0.736
-	Considering removing feature 7
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 15
-Updated Accuracy: 0.74
-	Considering removing feature 16
-Updated Accuracy: 0.744
-	Considering removing feature 18
+Updated Accuracy: 0.784
+	Considering removing feature 10
+	Considering removing feature 11
+	Considering removing feature 12
+	Considering removing feature 17
 	Considering removing feature 19
-	Considering removing feature 21
-	Considering removing feature 22
-	Considering removing feature 23
-	Considering removing feature 24
-	Considering removing feature 25
 	Considering removing feature 26
-	Considering removing feature 27
-	Considering removing feature 28
 	Considering removing feature 29
 	Considering removing feature 30
-	Considering removing feature 31
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
 	Considering removing feature 36
-Updated Accuracy: 0.746
-	Considering removing feature 37
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 62
-Updated Accuracy: 0.752
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 78
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 62 removed on level 29
+Feature 5 removed on level 29
 
 On level 30 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.728
+Updated Accuracy: 0.763
 	Considering removing feature 2
-	Considering removing feature 3
-Updated Accuracy: 0.732
-	Considering removing feature 4
-	Considering removing feature 5
-	Considering removing feature 6
-Updated Accuracy: 0.738
-	Considering removing feature 7
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 15
-	Considering removing feature 16
-	Considering removing feature 18
-Updated Accuracy: 0.75
+Updated Accuracy: 0.764
+	Considering removing feature 10
+Updated Accuracy: 0.773
+	Considering removing feature 11
+Updated Accuracy: 0.779
+	Considering removing feature 12
+	Considering removing feature 17
+Updated Accuracy: 0.795
 	Considering removing feature 19
-	Considering removing feature 21
-	Considering removing feature 22
-	Considering removing feature 23
-	Considering removing feature 24
-	Considering removing feature 25
 	Considering removing feature 26
-	Considering removing feature 27
-	Considering removing feature 28
 	Considering removing feature 29
 	Considering removing feature 30
-	Considering removing feature 31
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
 	Considering removing feature 36
-	Considering removing feature 37
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 78
-Updated Accuracy: 0.752
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 78 removed on level 30
+Feature 17 removed on level 30
 
 On level 31 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.734
+Updated Accuracy: 0.773
 	Considering removing feature 2
-Updated Accuracy: 0.742
-	Considering removing feature 3
-	Considering removing feature 4
-	Considering removing feature 5
-	Considering removing feature 6
-	Considering removing feature 7
-Updated Accuracy: 0.744
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 15
-	Considering removing feature 16
-	Considering removing feature 18
-Updated Accuracy: 0.752
+	Considering removing feature 10
+Updated Accuracy: 0.775
+	Considering removing feature 11
+Updated Accuracy: 0.779
+	Considering removing feature 12
+Updated Accuracy: 0.78
 	Considering removing feature 19
-	Considering removing feature 21
-	Considering removing feature 22
-	Considering removing feature 23
-	Considering removing feature 24
-	Considering removing feature 25
+Updated Accuracy: 0.791
 	Considering removing feature 26
-	Considering removing feature 27
-	Considering removing feature 28
 	Considering removing feature 29
 	Considering removing feature 30
-	Considering removing feature 31
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
 	Considering removing feature 36
-Updated Accuracy: 0.754
-	Considering removing feature 37
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 36 removed on level 31
+Feature 19 removed on level 31
 
 On level 32 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.734
+Updated Accuracy: 0.765
 	Considering removing feature 2
-Updated Accuracy: 0.746
-	Considering removing feature 3
-	Considering removing feature 4
-	Considering removing feature 5
-Updated Accuracy: 0.75
-	Considering removing feature 6
-	Considering removing feature 7
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 15
-	Considering removing feature 16
-	Considering removing feature 18
-	Considering removing feature 19
-Updated Accuracy: 0.752
-	Considering removing feature 21
-	Considering removing feature 22
-	Considering removing feature 23
-	Considering removing feature 24
-	Considering removing feature 25
-Updated Accuracy: 0.76
+Updated Accuracy: 0.776
+	Considering removing feature 10
+Updated Accuracy: 0.788
+	Considering removing feature 11
+	Considering removing feature 12
 	Considering removing feature 26
-	Considering removing feature 27
-	Considering removing feature 28
 	Considering removing feature 29
 	Considering removing feature 30
-	Considering removing feature 31
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
-	Considering removing feature 37
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 56
-Updated Accuracy: 0.762
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 56 removed on level 32
+Updated Accuracy: 0.793
+	Considering removing feature 36
+Feature 30 removed on level 32
 
 On level 33 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.75
+Updated Accuracy: 0.784
 	Considering removing feature 2
-Updated Accuracy: 0.752
-	Considering removing feature 3
-	Considering removing feature 4
-	Considering removing feature 5
-	Considering removing feature 6
-	Considering removing feature 7
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 15
-	Considering removing feature 16
-	Considering removing feature 18
-	Considering removing feature 19
-Updated Accuracy: 0.76
-	Considering removing feature 21
-	Considering removing feature 22
-	Considering removing feature 23
-	Considering removing feature 24
-	Considering removing feature 25
+	Considering removing feature 10
+	Considering removing feature 11
+Updated Accuracy: 0.796
+	Considering removing feature 12
 	Considering removing feature 26
-	Considering removing feature 27
-	Considering removing feature 28
 	Considering removing feature 29
-	Considering removing feature 30
-	Considering removing feature 31
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
-	Considering removing feature 37
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-	Considering removing feature 94
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 19 removed on level 33
+Updated Accuracy: 0.807
+	Considering removing feature 36
+Feature 29 removed on level 33
 
 On level 34 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.73
+Updated Accuracy: 0.784
 	Considering removing feature 2
-Updated Accuracy: 0.752
-	Considering removing feature 3
-Updated Accuracy: 0.754
-	Considering removing feature 4
-	Considering removing feature 5
-	Considering removing feature 6
-	Considering removing feature 7
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 15
-	Considering removing feature 16
-	Considering removing feature 18
-	Considering removing feature 21
-	Considering removing feature 22
-	Considering removing feature 23
-	Considering removing feature 24
-	Considering removing feature 25
+	Considering removing feature 10
+Updated Accuracy: 0.79
+	Considering removing feature 11
+Updated Accuracy: 0.792
+	Considering removing feature 12
 	Considering removing feature 26
-	Considering removing feature 27
-	Considering removing feature 28
-	Considering removing feature 29
-	Considering removing feature 30
-	Considering removing feature 31
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
-	Considering removing feature 37
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-Updated Accuracy: 0.756
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 93
-Updated Accuracy: 0.76
-	Considering removing feature 94
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 93 removed on level 34
+	Considering removing feature 36
+Updated Accuracy: 0.806
+Feature 36 removed on level 34
 
 On level 35 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.752
+Updated Accuracy: 0.801
 	Considering removing feature 2
-Updated Accuracy: 0.762
-	Considering removing feature 3
-Updated Accuracy: 0.764
-	Considering removing feature 4
-	Considering removing feature 5
-	Considering removing feature 6
-	Considering removing feature 7
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 15
-	Considering removing feature 16
-	Considering removing feature 18
-	Considering removing feature 21
-	Considering removing feature 22
-	Considering removing feature 23
-	Considering removing feature 24
-	Considering removing feature 25
+	Considering removing feature 10
+Updated Accuracy: 0.811
+	Considering removing feature 11
+	Considering removing feature 12
 	Considering removing feature 26
-	Considering removing feature 27
-	Considering removing feature 28
-	Considering removing feature 29
-	Considering removing feature 30
-	Considering removing feature 31
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
-	Considering removing feature 37
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 94
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 3 removed on level 35
+Feature 10 removed on level 35
 
 On level 36 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.754
+Updated Accuracy: 0.789
 	Considering removing feature 2
-	Considering removing feature 4
-	Considering removing feature 5
-	Considering removing feature 6
-	Considering removing feature 7
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 15
-	Considering removing feature 16
-	Considering removing feature 18
-	Considering removing feature 21
-	Considering removing feature 22
-Updated Accuracy: 0.76
-	Considering removing feature 23
-	Considering removing feature 24
-	Considering removing feature 25
+Updated Accuracy: 0.813
+	Considering removing feature 11
+	Considering removing feature 12
+Updated Accuracy: 0.814
 	Considering removing feature 26
-	Considering removing feature 27
-	Considering removing feature 28
-	Considering removing feature 29
-	Considering removing feature 30
-	Considering removing feature 31
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
-	Considering removing feature 37
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 94
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 22 removed on level 36
+Feature 12 removed on level 36
 
 On level 37 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.746
+Updated Accuracy: 0.808
 	Considering removing feature 2
-Updated Accuracy: 0.75
-	Considering removing feature 4
-	Considering removing feature 5
-	Considering removing feature 6
-	Considering removing feature 7
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 15
-	Considering removing feature 16
-	Considering removing feature 18
-	Considering removing feature 21
-	Considering removing feature 23
-Updated Accuracy: 0.752
-	Considering removing feature 24
-	Considering removing feature 25
+Updated Accuracy: 0.812
+	Considering removing feature 11
 	Considering removing feature 26
-	Considering removing feature 27
-	Considering removing feature 28
-	Considering removing feature 29
-	Considering removing feature 30
-	Considering removing feature 31
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
-	Considering removing feature 37
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-Updated Accuracy: 0.756
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-Updated Accuracy: 0.766
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 88
-Updated Accuracy: 0.768
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 94
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 88 removed on level 37
+Feature 2 removed on level 37
 
 On level 38 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.756
-	Considering removing feature 2
-Updated Accuracy: 0.776
-	Considering removing feature 4
-	Considering removing feature 5
-	Considering removing feature 6
-	Considering removing feature 7
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 15
-	Considering removing feature 16
-	Considering removing feature 18
-	Considering removing feature 21
-	Considering removing feature 23
-	Considering removing feature 24
-	Considering removing feature 25
+Updated Accuracy: 0.819
+	Considering removing feature 11
+Updated Accuracy: 0.825
 	Considering removing feature 26
-	Considering removing feature 27
-	Considering removing feature 28
-	Considering removing feature 29
-	Considering removing feature 30
-	Considering removing feature 31
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
-	Considering removing feature 37
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 94
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 2 removed on level 38
+Feature 11 removed on level 38
 
 On level 39 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.758
-	Considering removing feature 4
-	Considering removing feature 5
-Updated Accuracy: 0.764
-	Considering removing feature 6
-	Considering removing feature 7
-	Considering removing feature 9
-	Considering removing feature 14
-Updated Accuracy: 0.768
-	Considering removing feature 15
-	Considering removing feature 16
-	Considering removing feature 18
-	Considering removing feature 21
-	Considering removing feature 23
-Updated Accuracy: 0.772
-	Considering removing feature 24
-	Considering removing feature 25
+Updated Accuracy: 0.814
 	Considering removing feature 26
-	Considering removing feature 27
-	Considering removing feature 28
-	Considering removing feature 29
-	Considering removing feature 30
-	Considering removing feature 31
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
-	Considering removing feature 37
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 94
-Updated Accuracy: 0.782
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 94 removed on level 39
+Feature 1 removed on level 39
 
 On level 40 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.754
-	Considering removing feature 4
-Updated Accuracy: 0.762
-	Considering removing feature 5
-Updated Accuracy: 0.764
-	Considering removing feature 6
-	Considering removing feature 7
-	Considering removing feature 9
-Updated Accuracy: 0.768
-	Considering removing feature 14
-	Considering removing feature 15
-	Considering removing feature 16
-Updated Accuracy: 0.772
-	Considering removing feature 18
-	Considering removing feature 21
-	Considering removing feature 23
-	Considering removing feature 24
-	Considering removing feature 25
 	Considering removing feature 26
-	Considering removing feature 27
-	Considering removing feature 28
-	Considering removing feature 29
-	Considering removing feature 30
-	Considering removing feature 31
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
-	Considering removing feature 37
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 16 removed on level 40
+Updated Accuracy: 0.834
+Feature 26 removed on level 40
 
-On level 41 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.746
-	Considering removing feature 4
-Updated Accuracy: 0.75
-	Considering removing feature 5
-	Considering removing feature 6
-Updated Accuracy: 0.752
-	Considering removing feature 7
-Updated Accuracy: 0.766
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 15
-	Considering removing feature 18
-	Considering removing feature 21
-	Considering removing feature 23
-	Considering removing feature 24
-	Considering removing feature 25
-	Considering removing feature 26
-	Considering removing feature 27
-	Considering removing feature 28
-	Considering removing feature 29
-	Considering removing feature 30
-	Considering removing feature 31
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
-	Considering removing feature 37
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 7 removed on level 41
-
-On level 42 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.746
-	Considering removing feature 4
-	Considering removing feature 5
-Updated Accuracy: 0.748
-	Considering removing feature 6
-Updated Accuracy: 0.756
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 15
-Updated Accuracy: 0.768
-	Considering removing feature 18
-	Considering removing feature 21
-	Considering removing feature 23
-	Considering removing feature 24
-	Considering removing feature 25
-	Considering removing feature 26
-	Considering removing feature 27
-	Considering removing feature 28
-	Considering removing feature 29
-	Considering removing feature 30
-	Considering removing feature 31
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
-	Considering removing feature 37
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 15 removed on level 42
-
-On level 43 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.744
-	Considering removing feature 4
-Updated Accuracy: 0.748
-	Considering removing feature 5
-Updated Accuracy: 0.76
-	Considering removing feature 6
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 18
-	Considering removing feature 21
-	Considering removing feature 23
-	Considering removing feature 24
-	Considering removing feature 25
-	Considering removing feature 26
-	Considering removing feature 27
-	Considering removing feature 28
-	Considering removing feature 29
-Updated Accuracy: 0.766
-	Considering removing feature 30
-	Considering removing feature 31
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
-	Considering removing feature 37
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 61
-Updated Accuracy: 0.776
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 61 removed on level 43
-
-On level 44 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.752
-	Considering removing feature 4
-	Considering removing feature 5
-	Considering removing feature 6
-Updated Accuracy: 0.758
-	Considering removing feature 9
-	Considering removing feature 14
-Updated Accuracy: 0.766
-	Considering removing feature 18
-	Considering removing feature 21
-	Considering removing feature 23
-	Considering removing feature 24
-	Considering removing feature 25
-	Considering removing feature 26
-Updated Accuracy: 0.77
-	Considering removing feature 27
-	Considering removing feature 28
-	Considering removing feature 29
-	Considering removing feature 30
-	Considering removing feature 31
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
-	Considering removing feature 37
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 26 removed on level 44
-
-On level 45 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.752
-	Considering removing feature 4
-Updated Accuracy: 0.758
-	Considering removing feature 5
-Updated Accuracy: 0.77
-	Considering removing feature 6
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 18
-	Considering removing feature 21
-	Considering removing feature 23
-Updated Accuracy: 0.778
-	Considering removing feature 24
-	Considering removing feature 25
-	Considering removing feature 27
-	Considering removing feature 28
-	Considering removing feature 29
-	Considering removing feature 30
-	Considering removing feature 31
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
-	Considering removing feature 37
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 23 removed on level 45
-
-On level 46 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.764
-	Considering removing feature 4
-	Considering removing feature 5
-	Considering removing feature 6
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 18
-Updated Accuracy: 0.77
-	Considering removing feature 21
-	Considering removing feature 24
-	Considering removing feature 25
-	Considering removing feature 27
-Updated Accuracy: 0.772
-	Considering removing feature 28
-	Considering removing feature 29
-	Considering removing feature 30
-	Considering removing feature 31
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
-	Considering removing feature 37
-Updated Accuracy: 0.776
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 37 removed on level 46
-
-On level 47 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.754
-	Considering removing feature 4
-Updated Accuracy: 0.764
-	Considering removing feature 5
-	Considering removing feature 6
-Updated Accuracy: 0.768
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 18
-Updated Accuracy: 0.79
-	Considering removing feature 21
-	Considering removing feature 24
-	Considering removing feature 25
-	Considering removing feature 27
-	Considering removing feature 28
-	Considering removing feature 29
-	Considering removing feature 30
-	Considering removing feature 31
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 18 removed on level 47
-
-On level 48 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.756
-	Considering removing feature 4
-Updated Accuracy: 0.764
-	Considering removing feature 5
-	Considering removing feature 6
-Updated Accuracy: 0.77
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 21
-	Considering removing feature 24
-	Considering removing feature 25
-	Considering removing feature 27
-	Considering removing feature 28
-	Considering removing feature 29
-Updated Accuracy: 0.78
-	Considering removing feature 30
-Updated Accuracy: 0.784
-	Considering removing feature 31
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 42
-Updated Accuracy: 0.788
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 42 removed on level 48
-
-On level 49 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.76
-	Considering removing feature 4
-	Considering removing feature 5
-Updated Accuracy: 0.764
-	Considering removing feature 6
-Updated Accuracy: 0.778
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 21
-	Considering removing feature 24
-	Considering removing feature 25
-	Considering removing feature 27
-	Considering removing feature 28
-	Considering removing feature 29
-Updated Accuracy: 0.79
-	Considering removing feature 30
-	Considering removing feature 31
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 29 removed on level 49
-
-On level 50 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.764
-	Considering removing feature 4
-Updated Accuracy: 0.766
-	Considering removing feature 5
-Updated Accuracy: 0.77
-	Considering removing feature 6
-Updated Accuracy: 0.784
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 21
-	Considering removing feature 24
-	Considering removing feature 25
-	Considering removing feature 27
-	Considering removing feature 28
-Updated Accuracy: 0.788
-	Considering removing feature 30
-	Considering removing feature 31
-Updated Accuracy: 0.79
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 47
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 31 removed on level 50
-
-On level 51 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.768
-	Considering removing feature 4
-	Considering removing feature 5
-	Considering removing feature 6
-	Considering removing feature 9
-	Considering removing feature 14
-Updated Accuracy: 0.776
-	Considering removing feature 21
-	Considering removing feature 24
-	Considering removing feature 25
-Updated Accuracy: 0.782
-	Considering removing feature 27
-	Considering removing feature 28
-	Considering removing feature 30
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
-	Considering removing feature 40
-	Considering removing feature 41
-Updated Accuracy: 0.784
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 47
-Updated Accuracy: 0.79
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 67
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 47 removed on level 51
-
-On level 52 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.764
-	Considering removing feature 4
-Updated Accuracy: 0.766
-	Considering removing feature 5
-	Considering removing feature 6
-Updated Accuracy: 0.774
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 21
-	Considering removing feature 24
-	Considering removing feature 25
-	Considering removing feature 27
-Updated Accuracy: 0.778
-	Considering removing feature 28
-	Considering removing feature 30
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 63
-	Considering removing feature 64
-Updated Accuracy: 0.782
-	Considering removing feature 67
-Updated Accuracy: 0.784
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 67 removed on level 52
-
-On level 53 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.754
-	Considering removing feature 4
-Updated Accuracy: 0.762
-	Considering removing feature 5
-Updated Accuracy: 0.768
-	Considering removing feature 6
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 21
-	Considering removing feature 24
-	Considering removing feature 25
-	Considering removing feature 27
-	Considering removing feature 28
-	Considering removing feature 30
-	Considering removing feature 32
-	Considering removing feature 33
-Updated Accuracy: 0.78
-	Considering removing feature 34
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 63
-	Considering removing feature 64
-Updated Accuracy: 0.782
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 70
-Updated Accuracy: 0.784
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 70 removed on level 53
-
-On level 54 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.756
-	Considering removing feature 4
-Updated Accuracy: 0.762
-	Considering removing feature 5
-Updated Accuracy: 0.776
-	Considering removing feature 6
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 21
-	Considering removing feature 24
-	Considering removing feature 25
-	Considering removing feature 27
-	Considering removing feature 28
-	Considering removing feature 30
-	Considering removing feature 32
-	Considering removing feature 33
-	Considering removing feature 34
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 46
-Updated Accuracy: 0.782
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 46 removed on level 54
-
-On level 55 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.746
-	Considering removing feature 4
-Updated Accuracy: 0.772
-	Considering removing feature 5
-	Considering removing feature 6
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 21
-	Considering removing feature 24
-	Considering removing feature 25
-	Considering removing feature 27
-	Considering removing feature 28
-	Considering removing feature 30
-	Considering removing feature 32
-	Considering removing feature 33
-Updated Accuracy: 0.782
-	Considering removing feature 34
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 63
-	Considering removing feature 64
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 33 removed on level 55
-
-On level 56 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.76
-	Considering removing feature 4
-Updated Accuracy: 0.766
-	Considering removing feature 5
-	Considering removing feature 6
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 21
-	Considering removing feature 24
-	Considering removing feature 25
-	Considering removing feature 27
-	Considering removing feature 28
-	Considering removing feature 30
-Updated Accuracy: 0.772
-	Considering removing feature 32
-	Considering removing feature 34
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 63
-Updated Accuracy: 0.774
-	Considering removing feature 64
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 63 removed on level 56
-
-On level 57 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.758
-	Considering removing feature 4
-	Considering removing feature 5
-	Considering removing feature 6
-Updated Accuracy: 0.76
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 21
-	Considering removing feature 24
-	Considering removing feature 25
-	Considering removing feature 27
-Updated Accuracy: 0.772
-	Considering removing feature 28
-	Considering removing feature 30
-	Considering removing feature 32
-	Considering removing feature 34
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 64
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 89
-	Considering removing feature 91
-	Considering removing feature 92
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 27 removed on level 57
-
-On level 58 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.746
-	Considering removing feature 4
-	Considering removing feature 5
-Updated Accuracy: 0.752
-	Considering removing feature 6
-	Considering removing feature 9
-Updated Accuracy: 0.754
-	Considering removing feature 14
-	Considering removing feature 21
-	Considering removing feature 24
-	Considering removing feature 25
-	Considering removing feature 28
-	Considering removing feature 30
-Updated Accuracy: 0.77
-	Considering removing feature 32
-	Considering removing feature 34
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 43
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 64
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 89
-	Considering removing feature 91
-Updated Accuracy: 0.772
-	Considering removing feature 92
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 91 removed on level 58
-
-On level 59 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.758
-	Considering removing feature 4
-	Considering removing feature 5
-	Considering removing feature 6
-	Considering removing feature 9
-Updated Accuracy: 0.762
-	Considering removing feature 14
-	Considering removing feature 21
-	Considering removing feature 24
-	Considering removing feature 25
-	Considering removing feature 28
-	Considering removing feature 30
-	Considering removing feature 32
-	Considering removing feature 34
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 43
-Updated Accuracy: 0.768
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 64
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 89
-	Considering removing feature 92
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 43 removed on level 59
-
-On level 60 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.734
-	Considering removing feature 4
-Updated Accuracy: 0.75
-	Considering removing feature 5
-	Considering removing feature 6
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 21
-	Considering removing feature 24
-	Considering removing feature 25
-Updated Accuracy: 0.758
-	Considering removing feature 28
-	Considering removing feature 30
-	Considering removing feature 32
-	Considering removing feature 34
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 64
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 89
-	Considering removing feature 92
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 25 removed on level 60
-
-On level 61 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.736
-	Considering removing feature 4
-Updated Accuracy: 0.738
-	Considering removing feature 5
-Updated Accuracy: 0.744
-	Considering removing feature 6
-Updated Accuracy: 0.746
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 21
-	Considering removing feature 24
-	Considering removing feature 28
-	Considering removing feature 30
-Updated Accuracy: 0.748
-	Considering removing feature 32
-Updated Accuracy: 0.752
-	Considering removing feature 34
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 52
-Updated Accuracy: 0.754
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 64
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 89
-	Considering removing feature 92
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 52 removed on level 61
-
-On level 62 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.732
-	Considering removing feature 4
-Updated Accuracy: 0.746
-	Considering removing feature 5
-Updated Accuracy: 0.75
-	Considering removing feature 6
-	Considering removing feature 9
-Updated Accuracy: 0.758
-	Considering removing feature 14
-	Considering removing feature 21
-	Considering removing feature 24
-	Considering removing feature 28
-	Considering removing feature 30
-	Considering removing feature 32
-	Considering removing feature 34
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 64
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 84
-Updated Accuracy: 0.76
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 89
-	Considering removing feature 92
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 84 removed on level 62
-
-On level 63 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.734
-	Considering removing feature 4
-Updated Accuracy: 0.738
-	Considering removing feature 5
-Updated Accuracy: 0.746
-	Considering removing feature 6
-Updated Accuracy: 0.752
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 21
-	Considering removing feature 24
-	Considering removing feature 28
-	Considering removing feature 30
-	Considering removing feature 32
-	Considering removing feature 34
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 64
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 79
-Updated Accuracy: 0.756
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 89
-	Considering removing feature 92
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 79 removed on level 63
-
-On level 64 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.736
-	Considering removing feature 4
-Updated Accuracy: 0.742
-	Considering removing feature 5
-	Considering removing feature 6
-Updated Accuracy: 0.748
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 21
-	Considering removing feature 24
-	Considering removing feature 28
-	Considering removing feature 30
-	Considering removing feature 32
-	Considering removing feature 34
-	Considering removing feature 40
-	Considering removing feature 41
-Updated Accuracy: 0.75
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 64
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-	Considering removing feature 89
-Updated Accuracy: 0.752
-	Considering removing feature 92
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 89 removed on level 64
-
-On level 65 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.724
-	Considering removing feature 4
-Updated Accuracy: 0.73
-	Considering removing feature 5
-Updated Accuracy: 0.734
-	Considering removing feature 6
-Updated Accuracy: 0.744
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 21
-	Considering removing feature 24
-	Considering removing feature 28
-	Considering removing feature 30
-	Considering removing feature 32
-	Considering removing feature 34
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 64
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 80
-Updated Accuracy: 0.746
-	Considering removing feature 82
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 87
-Updated Accuracy: 0.748
-	Considering removing feature 92
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 87 removed on level 65
-
-On level 66 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.73
-	Considering removing feature 4
-Updated Accuracy: 0.734
-	Considering removing feature 5
-Updated Accuracy: 0.748
-	Considering removing feature 6
-Updated Accuracy: 0.754
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 21
-	Considering removing feature 24
-	Considering removing feature 28
-	Considering removing feature 30
-	Considering removing feature 32
-	Considering removing feature 34
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 54
-	Considering removing feature 55
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 64
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 92
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 6 removed on level 66
-
-On level 67 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.724
-	Considering removing feature 4
-Updated Accuracy: 0.75
-	Considering removing feature 5
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 21
-	Considering removing feature 24
-	Considering removing feature 28
-	Considering removing feature 30
-	Considering removing feature 32
-	Considering removing feature 34
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 44
-	Considering removing feature 49
-Updated Accuracy: 0.752
-	Considering removing feature 50
-	Considering removing feature 54
-	Considering removing feature 55
-Updated Accuracy: 0.76
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 64
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 92
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 55 removed on level 67
-
-On level 68 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.728
-	Considering removing feature 4
-Updated Accuracy: 0.764
-	Considering removing feature 5
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 21
-	Considering removing feature 24
-	Considering removing feature 28
-	Considering removing feature 30
-	Considering removing feature 32
-	Considering removing feature 34
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 54
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 64
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 92
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 4 removed on level 68
-
-On level 69 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.742
-	Considering removing feature 5
-Updated Accuracy: 0.75
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 21
-	Considering removing feature 24
-	Considering removing feature 28
-	Considering removing feature 30
-	Considering removing feature 32
-	Considering removing feature 34
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 50
-	Considering removing feature 54
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 64
-	Considering removing feature 68
-Updated Accuracy: 0.76
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 92
-Updated Accuracy: 0.764
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 92 removed on level 69
-
-On level 70 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.734
-	Considering removing feature 5
-Updated Accuracy: 0.746
-	Considering removing feature 9
-	Considering removing feature 14
-Updated Accuracy: 0.748
-	Considering removing feature 21
-Updated Accuracy: 0.75
-	Considering removing feature 24
-	Considering removing feature 28
-	Considering removing feature 30
-	Considering removing feature 32
-Updated Accuracy: 0.754
-	Considering removing feature 34
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 50
-Updated Accuracy: 0.764
-	Considering removing feature 54
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 64
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 50 removed on level 70
-
-On level 71 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.736
-	Considering removing feature 5
-Updated Accuracy: 0.758
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 21
-	Considering removing feature 24
-	Considering removing feature 28
-	Considering removing feature 30
-	Considering removing feature 32
-	Considering removing feature 34
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 54
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 64
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 85
-	Considering removing feature 86
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 5 removed on level 71
-
-On level 72 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.74
-	Considering removing feature 9
-Updated Accuracy: 0.742
-	Considering removing feature 14
-	Considering removing feature 21
-Updated Accuracy: 0.764
-	Considering removing feature 24
-	Considering removing feature 28
-	Considering removing feature 30
-	Considering removing feature 32
-	Considering removing feature 34
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 54
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 64
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 85
-Updated Accuracy: 0.766
-	Considering removing feature 86
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 85 removed on level 72
-
-On level 73 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.738
-	Considering removing feature 9
-Updated Accuracy: 0.742
-	Considering removing feature 14
-Updated Accuracy: 0.754
-	Considering removing feature 21
-Updated Accuracy: 0.774
-	Considering removing feature 24
-	Considering removing feature 28
-	Considering removing feature 30
-	Considering removing feature 32
-	Considering removing feature 34
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 54
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 64
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 86
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 21 removed on level 73
-
-On level 74 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.748
-	Considering removing feature 9
-	Considering removing feature 14
-Updated Accuracy: 0.754
-	Considering removing feature 24
-Updated Accuracy: 0.768
-	Considering removing feature 28
-	Considering removing feature 30
-	Considering removing feature 32
-	Considering removing feature 34
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 54
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 64
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 80
-	Considering removing feature 82
-	Considering removing feature 86
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 24 removed on level 74
-
-On level 75 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.728
-	Considering removing feature 9
-	Considering removing feature 14
-Updated Accuracy: 0.74
-	Considering removing feature 28
-	Considering removing feature 30
-	Considering removing feature 32
-	Considering removing feature 34
-Updated Accuracy: 0.756
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 54
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 64
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 80
-	Considering removing feature 82
-Updated Accuracy: 0.768
-	Considering removing feature 86
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 82 removed on level 75
-
-On level 76 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.734
-	Considering removing feature 9
-	Considering removing feature 14
-Updated Accuracy: 0.742
-	Considering removing feature 28
-	Considering removing feature 30
-Updated Accuracy: 0.746
-	Considering removing feature 32
-	Considering removing feature 34
-Updated Accuracy: 0.752
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 54
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 64
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 80
-	Considering removing feature 86
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 34 removed on level 76
-
-On level 77 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.748
-	Considering removing feature 9
-	Considering removing feature 14
-	Considering removing feature 28
-	Considering removing feature 30
-	Considering removing feature 32
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 54
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 64
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 80
-	Considering removing feature 86
-	Considering removing feature 98
-	Considering removing feature 100
-Feature 1 removed on level 77
-
-On level 78 of the search tree
-	Considering removing feature 9
-Updated Accuracy: 0.73
-	Considering removing feature 14
-	Considering removing feature 28
-	Considering removing feature 30
-	Considering removing feature 32
-Updated Accuracy: 0.742
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 54
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 64
-	Considering removing feature 68
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 80
-	Considering removing feature 86
-	Considering removing feature 98
-Updated Accuracy: 0.746
-	Considering removing feature 100
-Feature 98 removed on level 78
-
-On level 79 of the search tree
-	Considering removing feature 9
-Updated Accuracy: 0.722
-	Considering removing feature 14
-Updated Accuracy: 0.728
-	Considering removing feature 28
-	Considering removing feature 30
-	Considering removing feature 32
-Updated Accuracy: 0.748
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 54
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 64
-	Considering removing feature 68
-Updated Accuracy: 0.752
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 80
-	Considering removing feature 86
-	Considering removing feature 100
-Feature 68 removed on level 79
-
-On level 80 of the search tree
-	Considering removing feature 9
-Updated Accuracy: 0.724
-	Considering removing feature 14
-Updated Accuracy: 0.73
-	Considering removing feature 28
-Updated Accuracy: 0.734
-	Considering removing feature 30
-Updated Accuracy: 0.754
-	Considering removing feature 32
-Updated Accuracy: 0.76
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 54
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 64
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 80
-	Considering removing feature 86
-	Considering removing feature 100
-Feature 32 removed on level 80
-
-On level 81 of the search tree
-	Considering removing feature 9
-Updated Accuracy: 0.736
-	Considering removing feature 14
-Updated Accuracy: 0.738
-	Considering removing feature 28
-	Considering removing feature 30
-Updated Accuracy: 0.76
-	Considering removing feature 40
-	Considering removing feature 41
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 54
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 64
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 72
-	Considering removing feature 73
-	Considering removing feature 80
-	Considering removing feature 86
-	Considering removing feature 100
-Feature 30 removed on level 81
-
-On level 82 of the search tree
-	Considering removing feature 9
-Updated Accuracy: 0.742
-	Considering removing feature 14
-	Considering removing feature 28
-	Considering removing feature 40
-	Considering removing feature 41
-Updated Accuracy: 0.754
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 54
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 64
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 72
-Updated Accuracy: 0.76
-	Considering removing feature 73
-	Considering removing feature 80
-	Considering removing feature 86
-	Considering removing feature 100
-Feature 72 removed on level 82
-
-On level 83 of the search tree
-	Considering removing feature 9
-Updated Accuracy: 0.748
-	Considering removing feature 14
-	Considering removing feature 28
-	Considering removing feature 40
-Updated Accuracy: 0.75
-	Considering removing feature 41
-Updated Accuracy: 0.758
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 54
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 64
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 73
-	Considering removing feature 80
-	Considering removing feature 86
-	Considering removing feature 100
-Feature 41 removed on level 83
-
-On level 84 of the search tree
-	Considering removing feature 9
-Updated Accuracy: 0.73
-	Considering removing feature 14
-	Considering removing feature 28
-Updated Accuracy: 0.738
-	Considering removing feature 40
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 54
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 64
-Updated Accuracy: 0.752
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 73
-	Considering removing feature 80
-	Considering removing feature 86
-	Considering removing feature 100
-Feature 64 removed on level 84
-
-On level 85 of the search tree
-	Considering removing feature 9
-Updated Accuracy: 0.72
-	Considering removing feature 14
-	Considering removing feature 28
-Updated Accuracy: 0.742
-	Considering removing feature 40
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 54
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 73
-Updated Accuracy: 0.744
-	Considering removing feature 80
-	Considering removing feature 86
-	Considering removing feature 100
-Feature 73 removed on level 85
-
-On level 86 of the search tree
-	Considering removing feature 9
-Updated Accuracy: 0.718
-	Considering removing feature 14
-	Considering removing feature 28
-Updated Accuracy: 0.728
-	Considering removing feature 40
-Updated Accuracy: 0.752
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 54
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 80
-	Considering removing feature 86
-	Considering removing feature 100
-Feature 40 removed on level 86
-
-On level 87 of the search tree
-	Considering removing feature 9
-Updated Accuracy: 0.694
-	Considering removing feature 14
-	Considering removing feature 28
-Updated Accuracy: 0.744
-	Considering removing feature 44
-	Considering removing feature 49
-	Considering removing feature 54
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 80
-	Considering removing feature 86
-	Considering removing feature 100
-Feature 28 removed on level 87
-
-On level 88 of the search tree
-	Considering removing feature 9
-Updated Accuracy: 0.692
-	Considering removing feature 14
-Updated Accuracy: 0.7
-	Considering removing feature 44
-Updated Accuracy: 0.714
-	Considering removing feature 49
-	Considering removing feature 54
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 69
-	Considering removing feature 71
-Updated Accuracy: 0.722
-	Considering removing feature 80
-Updated Accuracy: 0.742
-	Considering removing feature 86
-	Considering removing feature 100
-Feature 80 removed on level 88
-
-On level 89 of the search tree
-	Considering removing feature 9
-Updated Accuracy: 0.696
-	Considering removing feature 14
-	Considering removing feature 44
-Updated Accuracy: 0.74
-	Considering removing feature 49
-	Considering removing feature 54
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 86
-	Considering removing feature 100
-Feature 44 removed on level 89
-
-On level 90 of the search tree
-	Considering removing feature 9
-Updated Accuracy: 0.702
-	Considering removing feature 14
-	Considering removing feature 49
-Updated Accuracy: 0.738
-	Considering removing feature 54
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 86
-	Considering removing feature 100
-Feature 49 removed on level 90
-
-On level 91 of the search tree
-	Considering removing feature 9
-Updated Accuracy: 0.712
-	Considering removing feature 14
-	Considering removing feature 54
-Updated Accuracy: 0.728
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-	Considering removing feature 69
-	Considering removing feature 71
-	Considering removing feature 86
-	Considering removing feature 100
-Feature 54 removed on level 91
-
-On level 92 of the search tree
-	Considering removing feature 9
-Updated Accuracy: 0.702
-	Considering removing feature 14
-	Considering removing feature 57
-	Considering removing feature 59
-Updated Accuracy: 0.706
-	Considering removing feature 60
-Updated Accuracy: 0.718
-	Considering removing feature 69
-	Considering removing feature 71
-Updated Accuracy: 0.72
-	Considering removing feature 86
-	Considering removing feature 100
-Feature 71 removed on level 92
-
-On level 93 of the search tree
-	Considering removing feature 9
-Updated Accuracy: 0.722
-	Considering removing feature 14
-	Considering removing feature 57
-	Considering removing feature 59
-	Considering removing feature 60
-Updated Accuracy: 0.738
-	Considering removing feature 69
-	Considering removing feature 86
-	Considering removing feature 100
-Feature 60 removed on level 93
-
-On level 94 of the search tree
-	Considering removing feature 9
-Updated Accuracy: 0.728
-	Considering removing feature 14
-	Considering removing feature 57
-Updated Accuracy: 0.766
-	Considering removing feature 59
-	Considering removing feature 69
-	Considering removing feature 86
-	Considering removing feature 100
-Feature 57 removed on level 94
-
-On level 95 of the search tree
-	Considering removing feature 9
-Updated Accuracy: 0.754
-	Considering removing feature 14
-	Considering removing feature 59
-Updated Accuracy: 0.77
-	Considering removing feature 69
-	Considering removing feature 86
-	Considering removing feature 100
-Feature 59 removed on level 95
-
-On level 96 of the search tree
-	Considering removing feature 9
-Updated Accuracy: 0.77
-	Considering removing feature 14
-	Considering removing feature 69
-Updated Accuracy: 0.816
-	Considering removing feature 86
-	Considering removing feature 100
-Feature 69 removed on level 96
-
-On level 97 of the search tree
-	Considering removing feature 9
-Updated Accuracy: 0.79
-	Considering removing feature 14
-	Considering removing feature 86
-Updated Accuracy: 0.804
-	Considering removing feature 100
-Updated Accuracy: 0.828
-Feature 100 removed on level 97
-
-On level 98 of the search tree
-	Considering removing feature 9
-Updated Accuracy: 0.81
-	Considering removing feature 14
-	Considering removing feature 86
-Updated Accuracy: 0.826
-Feature 86 removed on level 98
-
-On level 99 of the search tree
-	Considering removing feature 9
-Updated Accuracy: 0.802
-	Considering removing feature 14
-Feature 9 removed on level 99
-
-On level 100 of the search tree
-	Considering removing feature 14
-Updated Accuracy: 0.764
-Feature 14 removed on level 100
-
-Best Features:  {9, 14, 86}
-Best Accuracy:  0.828
-Accuracy w/ All Features: 0.576
+Best Features:  set()
+Best Accuracy:  0.834
+Accuracy w/ All Features: 0.709
