@@ -1,0 +1,162 @@
+Welcome to Zubair's Feature Selection Algorithm
+Enter the input file name: Enter the algorithm you wish to run: 
+	 1. Forward Selection 
+	 2. Backward Elimination
+On level 1 of the search tree
+	Considering adding feature 1
+Updated Accuracy: 0.79
+	Considering adding feature 2
+	Considering adding feature 3
+	Considering adding feature 4
+	Considering adding feature 5
+	Considering adding feature 6
+Updated Accuracy: 0.8575
+	Considering adding feature 7
+	Considering adding feature 8
+	Considering adding feature 9
+	Considering adding feature 10
+	Considering adding feature 11
+	Considering adding feature 12
+	Considering adding feature 13
+Feature 6 added on level 1
+
+On level 2 of the search tree
+	Considering adding feature 1
+Updated Accuracy: 0.96
+	Considering adding feature 2
+	Considering adding feature 3
+	Considering adding feature 4
+	Considering adding feature 5
+	Considering adding feature 7
+	Considering adding feature 8
+	Considering adding feature 9
+	Considering adding feature 10
+	Considering adding feature 11
+	Considering adding feature 12
+	Considering adding feature 13
+Feature 1 added on level 2
+
+On level 3 of the search tree
+	Considering adding feature 2
+Updated Accuracy: 0.9725
+	Considering adding feature 3
+	Considering adding feature 4
+	Considering adding feature 5
+	Considering adding feature 7
+	Considering adding feature 8
+	Considering adding feature 9
+	Considering adding feature 10
+	Considering adding feature 11
+	Considering adding feature 12
+	Considering adding feature 13
+Feature 2 added on level 3
+
+On level 4 of the search tree
+	Considering adding feature 3
+Updated Accuracy: 0.9725
+	Considering adding feature 4
+Updated Accuracy: 0.975
+	Considering adding feature 5
+	Considering adding feature 7
+	Considering adding feature 8
+	Considering adding feature 9
+	Considering adding feature 10
+	Considering adding feature 11
+	Considering adding feature 12
+	Considering adding feature 13
+Feature 4 added on level 4
+
+On level 5 of the search tree
+	Considering adding feature 3
+Updated Accuracy: 0.9775
+	Considering adding feature 5
+	Considering adding feature 7
+	Considering adding feature 8
+	Considering adding feature 9
+	Considering adding feature 10
+	Considering adding feature 11
+	Considering adding feature 12
+	Considering adding feature 13
+Feature 3 added on level 5
+
+On level 6 of the search tree
+	Considering adding feature 5
+Updated Accuracy: 0.8775
+	Considering adding feature 7
+Updated Accuracy: 0.9525
+	Considering adding feature 8
+	Considering adding feature 9
+Updated Accuracy: 0.96
+	Considering adding feature 10
+	Considering adding feature 11
+	Considering adding feature 12
+Updated Accuracy: 0.98
+	Considering adding feature 13
+Feature 12 added on level 6
+
+On level 7 of the search tree
+	Considering adding feature 5
+Updated Accuracy: 0.8925
+	Considering adding feature 7
+Updated Accuracy: 0.95
+	Considering adding feature 8
+	Considering adding feature 9
+Updated Accuracy: 0.965
+	Considering adding feature 10
+	Considering adding feature 11
+	Considering adding feature 13
+Feature 9 added on level 7
+
+On level 8 of the search tree
+	Considering adding feature 5
+Updated Accuracy: 0.95
+	Considering adding feature 7
+Updated Accuracy: 0.97
+	Considering adding feature 8
+	Considering adding feature 10
+	Considering adding feature 11
+	Considering adding feature 13
+Feature 7 added on level 8
+
+On level 9 of the search tree
+	Considering adding feature 5
+Updated Accuracy: 0.9425
+	Considering adding feature 8
+Updated Accuracy: 0.9675
+	Considering adding feature 10
+	Considering adding feature 11
+Updated Accuracy: 0.975
+	Considering adding feature 13
+Feature 11 added on level 9
+
+On level 10 of the search tree
+	Considering adding feature 5
+Updated Accuracy: 0.945
+	Considering adding feature 8
+Updated Accuracy: 0.975
+	Considering adding feature 10
+	Considering adding feature 13
+Feature 8 added on level 10
+
+On level 11 of the search tree
+	Considering adding feature 5
+Updated Accuracy: 0.945
+	Considering adding feature 10
+	Considering adding feature 13
+Updated Accuracy: 0.955
+Feature 13 added on level 11
+
+On level 12 of the search tree
+	Considering adding feature 5
+Updated Accuracy: 0.915
+	Considering adding feature 10
+Feature 5 added on level 12
+
+On level 13 of the search tree
+	Considering adding feature 10
+Updated Accuracy: 0.7175
+Feature 10 added on level 13
+
+Best Features:  {1, 2, 3, 4, 6, 12}
+Best Accuracy:  0.98
+Accuracy w/ All Features: 0.7175
