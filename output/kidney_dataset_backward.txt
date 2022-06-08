@@ -4,162 +4,127 @@ Enter the input file name: Enter the algorithm you wish to run:
 	 2. Backward Elimination
 On level 1 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.7175
+Updated Accuracy: 0.95
 	Considering removing feature 2
 	Considering removing feature 3
 	Considering removing feature 4
+Updated Accuracy: 0.9575
 	Considering removing feature 5
-Updated Accuracy: 0.745
 	Considering removing feature 6
 	Considering removing feature 7
 	Considering removing feature 8
 	Considering removing feature 9
+Updated Accuracy: 0.965
 	Considering removing feature 10
-Updated Accuracy: 0.915
 	Considering removing feature 11
-	Considering removing feature 12
-	Considering removing feature 13
-Feature 10 removed on level 1
+Feature 9 removed on level 1
 
 On level 2 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.915
+Updated Accuracy: 0.965
 	Considering removing feature 2
 	Considering removing feature 3
 	Considering removing feature 4
 	Considering removing feature 5
-Updated Accuracy: 0.955
+Updated Accuracy: 0.9675
 	Considering removing feature 6
 	Considering removing feature 7
 	Considering removing feature 8
-	Considering removing feature 9
+	Considering removing feature 10
 	Considering removing feature 11
-	Considering removing feature 12
-	Considering removing feature 13
 Feature 5 removed on level 2
 
 On level 3 of the search tree
 	Considering removing feature 1
-Updated Accuracy: 0.955
+Updated Accuracy: 0.9675
 	Considering removing feature 2
 	Considering removing feature 3
 	Considering removing feature 4
 	Considering removing feature 6
 	Considering removing feature 7
-Updated Accuracy: 0.965
 	Considering removing feature 8
-	Considering removing feature 9
+	Considering removing feature 10
 	Considering removing feature 11
-	Considering removing feature 12
-	Considering removing feature 13
-Updated Accuracy: 0.975
-Feature 13 removed on level 3
+Feature 1 removed on level 3
 
 On level 4 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.975
 	Considering removing feature 2
+Updated Accuracy: 0.94
 	Considering removing feature 3
+Updated Accuracy: 0.96
 	Considering removing feature 4
-Updated Accuracy: 0.9775
+Updated Accuracy: 0.9675
 	Considering removing feature 6
 	Considering removing feature 7
 	Considering removing feature 8
-	Considering removing feature 9
+	Considering removing feature 10
 	Considering removing feature 11
-	Considering removing feature 12
 Feature 4 removed on level 4
 
 On level 5 of the search tree
-	Considering removing feature 1
-Updated Accuracy: 0.9775
 	Considering removing feature 2
+Updated Accuracy: 0.935
 	Considering removing feature 3
+Updated Accuracy: 0.945
 	Considering removing feature 6
+Updated Accuracy: 0.965
 	Considering removing feature 7
+Updated Accuracy: 0.9675
 	Considering removing feature 8
-	Considering removing feature 9
+	Considering removing feature 10
 	Considering removing feature 11
-	Considering removing feature 12
-Feature 1 removed on level 5
+Feature 7 removed on level 5
 
 On level 6 of the search tree
 	Considering removing feature 2
-Updated Accuracy: 0.9575
+Updated Accuracy: 0.925
 	Considering removing feature 3
-Updated Accuracy: 0.975
+Updated Accuracy: 0.945
 	Considering removing feature 6
-	Considering removing feature 7
+Updated Accuracy: 0.9625
 	Considering removing feature 8
-Updated Accuracy: 0.9775
-	Considering removing feature 9
+	Considering removing feature 10
 	Considering removing feature 11
-	Considering removing feature 12
-Feature 8 removed on level 6
+Feature 6 removed on level 6
 
 On level 7 of the search tree
 	Considering removing feature 2
-Updated Accuracy: 0.965
+Updated Accuracy: 0.9325
 	Considering removing feature 3
-Updated Accuracy: 0.97
-	Considering removing feature 6
-	Considering removing feature 7
-	Considering removing feature 9
+Updated Accuracy: 0.9475
+	Considering removing feature 8
+	Considering removing feature 10
 	Considering removing feature 11
-Updated Accuracy: 0.9725
-	Considering removing feature 12
-Feature 11 removed on level 7
+Feature 3 removed on level 7
 
 On level 8 of the search tree
 	Considering removing feature 2
-Updated Accuracy: 0.9675
-	Considering removing feature 3
-Updated Accuracy: 0.9725
-	Considering removing feature 6
-	Considering removing feature 7
-	Considering removing feature 9
-	Considering removing feature 12
-Updated Accuracy: 0.975
-Feature 12 removed on level 8
+Updated Accuracy: 0.9
+	Considering removing feature 8
+	Considering removing feature 10
+Updated Accuracy: 0.9225
+	Considering removing feature 11
+Feature 10 removed on level 8
 
 On level 9 of the search tree
 	Considering removing feature 2
-Updated Accuracy: 0.9625
-	Considering removing feature 3
-Updated Accuracy: 0.9675
-	Considering removing feature 6
-	Considering removing feature 7
-	Considering removing feature 9
-Feature 3 removed on level 9
+Updated Accuracy: 0.8675
+	Considering removing feature 8
+	Considering removing feature 11
+Updated Accuracy: 0.925
+Feature 11 removed on level 9
 
 On level 10 of the search tree
 	Considering removing feature 2
-Updated Accuracy: 0.9525
-	Considering removing feature 6
-	Considering removing feature 7
-	Considering removing feature 9
+Updated Accuracy: 0.82
+	Considering removing feature 8
 Feature 2 removed on level 10
 
 On level 11 of the search tree
-	Considering removing feature 6
-Updated Accuracy: 0.9075
-	Considering removing feature 7
-Updated Accuracy: 0.92
-	Considering removing feature 9
-Feature 7 removed on level 11
-
-On level 12 of the search tree
-	Considering removing feature 6
-Updated Accuracy: 0.8175
-	Considering removing feature 9
-Updated Accuracy: 0.8575
-Feature 9 removed on level 12
-
-On level 13 of the search tree
-	Considering removing feature 6
+	Considering removing feature 8
 Updated Accuracy: 0.375
-Feature 6 removed on level 13
+Feature 8 removed on level 11
 
-Best Features:  {1, 2, 3, 6, 7, 8, 9, 11, 12}
-Best Accuracy:  0.978
-Accuracy w/ All Features: 0.7175
+Best Features:  {1, 2, 3, 4, 6, 7, 8, 10, 11}
+Best Accuracy:  0.968
+Accuracy w/ All Features: 0.95

@@ -1,0 +1,56 @@
+Welcome to Zubair's Feature Selection Algorithm
+Enter the input file name: Enter the algorithm you wish to run: 
+	 1. Forward Selection 
+	 2. Backward Elimination
+On level 1 of the search tree
+	Considering removing feature 1
+Updated Accuracy: 0.85
+	Considering removing feature 2
+	Considering removing feature 3
+Updated Accuracy: 0.86
+	Considering removing feature 4
+	Considering removing feature 5
+	Considering removing feature 6
+Updated Accuracy: 0.864
+Feature 6 removed on level 1
+
+On level 2 of the search tree
+	Considering removing feature 1
+Updated Accuracy: 0.908
+	Considering removing feature 2
+	Considering removing feature 3
+	Considering removing feature 4
+	Considering removing feature 5
+Feature 1 removed on level 2
+
+On level 3 of the search tree
+	Considering removing feature 2
+Updated Accuracy: 0.824
+	Considering removing feature 3
+Updated Accuracy: 0.948
+	Considering removing feature 4
+	Considering removing feature 5
+Feature 3 removed on level 3
+
+On level 4 of the search tree
+	Considering removing feature 2
+Updated Accuracy: 0.868
+	Considering removing feature 4
+	Considering removing feature 5
+Updated Accuracy: 0.97
+Feature 5 removed on level 4
+
+On level 5 of the search tree
+	Considering removing feature 2
+Updated Accuracy: 0.85
+	Considering removing feature 4
+Feature 2 removed on level 5
+
+On level 6 of the search tree
+	Considering removing feature 4
+Updated Accuracy: 0.82
+Feature 4 removed on level 6
+
+Best Features:  {2, 4}
+Best Accuracy:  0.97
+Accuracy w/ All Features: 0.85
